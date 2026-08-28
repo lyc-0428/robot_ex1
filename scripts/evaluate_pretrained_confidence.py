@@ -235,7 +235,7 @@ def write_outputs(
     args.output.mkdir(parents=True, exist_ok=True)
     csv_path = args.output / f"{args.split}_confidence_sweep.csv"
     with csv_path.open("w", encoding="utf-8", newline="") as stream:
-        writer = csv.DictWriter(stream, fieldnames=list(rows[0]))
+        writer = csv.DictWriter(stream, fieldnames=list(rows[0]), lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 
