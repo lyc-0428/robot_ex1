@@ -67,3 +67,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local YOLO training artifacts
+runs/
+logs/
+models/
+__pycache__/
+*.pyc
+
+# Ultralytics temporary files
+weights/
+*.cache
