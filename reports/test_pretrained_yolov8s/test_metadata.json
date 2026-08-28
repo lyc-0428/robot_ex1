@@ -1,0 +1,43 @@
+{
+  "model": "/home/ubuntu/robot/robot_ex1/models/pretrained/yolov8s_coco.pt",
+  "model_sha256": "268e5bb54c640c96c3510224833bc2eeacab4135c6deb41502156e39986b562d",
+  "dataset": "/home/ubuntu/robot/robot_ex1/datasets/laptop_mouse_yolov8",
+  "split": "test",
+  "matching_iou": 0.5,
+  "imgsz": 512,
+  "batch": 16,
+  "device": "0",
+  "coco_to_dataset_class_mapping": {
+    "63": 0,
+    "64": 1
+  },
+  "torch": "2.7.1+cu126",
+  "torch_cuda": "12.6",
+  "ultralytics": "8.4.131",
+  "best_by_f1": {
+    "confidence": 0.15,
+    "tp": 24,
+    "fp": 6,
+    "fn": 9,
+    "precision": 0.8,
+    "recall": 0.7272727272727273,
+    "f1": 0.761904761904762,
+    "detection_accuracy": 0.6153846153846154,
+    "map50": 0.8611111111111112,
+    "map50_95": 0.8197796783625731,
+    "laptop_tp": 7,
+    "laptop_fp": 4,
+    "laptop_fn": 1,
+    "laptop_precision": 0.6363636363636364,
+    "laptop_recall": 0.875,
+    "laptop_f1": 0.7368421052631579,
+    "laptop_detection_accuracy": 0.5833333333333334,
+    "mouse_tp": 17,
+    "mouse_fp": 2,
+    "mouse_fn": 8,
+    "mouse_precision": 0.8947368421052632,
+    "mouse_recall": 0.68,
+    "mouse_f1": 0.7727272727272727,
+    "mouse_detection_accuracy": 0.6296296296296297
+  }
+}

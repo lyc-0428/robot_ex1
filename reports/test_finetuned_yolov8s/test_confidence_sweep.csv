@@ -1,0 +1,2 @@
+confidence,tp,fp,fn,precision,recall,f1,detection_accuracy,map50,map50_95,laptop_tp,laptop_fp,laptop_fn,laptop_precision,laptop_recall,laptop_f1,laptop_detection_accuracy,mouse_tp,mouse_fp,mouse_fn,mouse_precision,mouse_recall,mouse_f1,mouse_detection_accuracy
+0.2,31,3,2,0.9117647058823529,0.9393939393939394,0.9253731343283583,0.8611111111111112,0.911,0.852900019614253,7,1,1,0.875,0.875,0.875,0.7777777777777778,24,2,1,0.9230769230769231,0.96,0.9411764705882353,0.8888888888888888
