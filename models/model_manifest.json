@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-08-28T04:54:55.475938+00:00",
+  "pretrained_model": "models/pretrained/yolov8s_coco.pt",
+  "pretrained_sha256": "268e5bb54c640c96c3510224833bc2eeacab4135c6deb41502156e39986b562d",
+  "finetuned_model": "models/finetuned/yolov8s_laptop_mouse_best.pt",
+  "finetuned_sha256": "13f6c4266f818815ff85306ac5d5dae752a502a46335bc4fe560ef4c4f99f421",
+  "training_config": "configs/yolov8s_finetune.yaml",
+  "dataset_yaml": "datasets/laptop_mouse_yolov8/data.yaml",
+  "classes": [
+    "laptop",
+    "mouse"
+  ],
+  "torch": "2.7.1+cu126",
+  "torch_cuda": "12.6",
+  "ultralytics": "8.4.131",
+  "run_directory": "runs/yolov8s/finetune"
+}

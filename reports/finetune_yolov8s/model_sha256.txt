@@ -1,0 +1,2 @@
+268e5bb54c640c96c3510224833bc2eeacab4135c6deb41502156e39986b562d  models/pretrained/yolov8s_coco.pt
+13f6c4266f818815ff85306ac5d5dae752a502a46335bc4fe560ef4c4f99f421  models/finetuned/yolov8s_laptop_mouse_best.pt
