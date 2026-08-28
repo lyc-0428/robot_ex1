@@ -1,0 +1,34 @@
+Repository: /home/ubuntu/robot/robot_ex1
+Configuration: /home/ubuntu/robot/robot_ex1/configs/yolov8s_finetune.yaml
+PyTorch: 2.7.1+cu126
+CUDA runtime: 12.6
+GPU: NVIDIA GeForce RTX 4090
+Resolved training arguments:
+{
+  "model": "/home/ubuntu/robot/robot_ex1/models/pretrained/yolov8s_coco.pt",
+  "data": "/home/ubuntu/robot/robot_ex1/datasets/laptop_mouse_yolov8/data.yaml",
+  "project": "/home/ubuntu/robot/robot_ex1/runs/yolov8s",
+  "name": "finetune",
+  "epochs": 120,
+  "patience": 25,
+  "imgsz": 512,
+  "batch": 16,
+  "device": 0,
+  "workers": 8,
+  "optimizer": "AdamW",
+  "lr0": 0.001,
+  "lrf": 0.01,
+  "weight_decay": 0.0005,
+  "warmup_epochs": 3.0,
+  "cos_lr": true,
+  "close_mosaic": 10,
+  "amp": true,
+  "cache": false,
+  "seed": 42,
+  "deterministic": true,
+  "save": true,
+  "save_period": 10,
+  "plots": true,
+  "exist_ok": false
+}
+DRY RUN PASSED: no training was started
