@@ -17,8 +17,13 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 205 images.
+The dataset includes 232 images.
 Laptop-and-Mouse-Objects are annotated in YOLOv8 format.
+
+On August 31, 2026, 27 target-free hard-negative images were added to reduce
+false-positive detections. They are represented by empty YOLO label files and
+were kept in capture-sequence groups when assigned to train (19), validation
+(4), and test (4) splits.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
