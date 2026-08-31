@@ -27,6 +27,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--resume", action="store_true", help="resume from the run's last.pt"
     )
+    parser.add_argument(
+        "--output-model",
+        type=Path,
+        default=Path("models/finetuned/yolov8s_laptop_mouse_best.pt"),
+        help="path that receives the best checkpoint",
+    )
+    parser.add_argument(
+        "--manifest",
+        type=Path,
+        default=Path("models/model_manifest.json"),
+        help="path that receives the reproducibility manifest",
+    )
     return parser.parse_args()
 
 
@@ -42,6 +54,17 @@ def normalize_names(names: list[str] | dict[int, str]) -> list[str]:
     if isinstance(names, list):
         return names
     return [names[key] for key in sorted(names, key=int)]
+
+
+def resolve_from_root(path: Path, root: Path) -> Path:
+    return path.resolve() if path.is_absolute() else (root / path).resolve()
+
+
+def display_path(path: Path, root: Path) -> str:
+    try:
+        return str(path.relative_to(root))
+    except ValueError:
+        return str(path)
 
 
 def load_configuration(config_path: Path, root: Path) -> dict:
@@ -135,9 +158,8 @@ def main() -> int:
     if not best_path.is_file():
         raise FileNotFoundError(f"training completed without best.pt: {best_path}")
 
-    final_dir = root / "models" / "finetuned"
-    final_dir.mkdir(parents=True, exist_ok=True)
-    final_path = final_dir / "yolov8s_laptop_mouse_best.pt"
+    final_path = resolve_from_root(args.output_model, root)
+    final_path.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(best_path, final_path)
 
     final_model = YOLO(str(final_path))
@@ -147,19 +169,20 @@ def main() -> int:
 
     manifest = {
         "created_at_utc": datetime.now(timezone.utc).isoformat(),
-        "pretrained_model": str(model_path.relative_to(root)),
+        "pretrained_model": display_path(model_path, root),
         "pretrained_sha256": sha256(model_path),
-        "finetuned_model": str(final_path.relative_to(root)),
+        "finetuned_model": display_path(final_path, root),
         "finetuned_sha256": sha256(final_path),
-        "training_config": str(config_path.relative_to(root)),
-        "dataset_yaml": str(data_path.relative_to(root)),
+        "training_config": display_path(config_path, root),
+        "dataset_yaml": display_path(data_path, root),
         "classes": final_names,
         "torch": torch.__version__,
         "torch_cuda": torch.version.cuda,
         "ultralytics": ultralytics.__version__,
-        "run_directory": str(output_dir.relative_to(root)),
+        "run_directory": display_path(output_dir, root),
     }
-    manifest_path = root / "models" / "model_manifest.json"
+    manifest_path = resolve_from_root(args.manifest, root)
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
     manifest_path.write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
