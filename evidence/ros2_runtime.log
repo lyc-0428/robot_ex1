@@ -1,0 +1,7120 @@
+stamp:
+  sec: 1788088968
+  nanosec: 418318849
+level: 20
+name: yolo_detector
+msg: frame=14130, objects=0, fps=35.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088969
+  nanosec: 452421860
+level: 20
+name: yolo_detector
+msg: frame=14160, objects=0, fps=37.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088970
+  nanosec: 510996476
+level: 20
+name: yolo_detector
+msg: frame=14190, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088971
+  nanosec: 725037247
+level: 20
+name: yolo_detector
+msg: frame=14220, objects=0, fps=33.85
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088972
+  nanosec: 781975295
+level: 20
+name: yolo_detector
+msg: frame=14250, objects=0, fps=35.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088973
+  nanosec: 883441519
+level: 20
+name: yolo_detector
+msg: frame=14280, objects=0, fps=37.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088974
+  nanosec: 940122023
+level: 20
+name: yolo_detector
+msg: frame=14310, objects=0, fps=35.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088975
+  nanosec: 958614444
+level: 20
+name: yolo_detector
+msg: frame=14340, objects=0, fps=36.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088976
+  nanosec: 988841131
+level: 20
+name: yolo_detector
+msg: frame=14370, objects=0, fps=35.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088978
+  nanosec: 28724186
+level: 20
+name: yolo_detector
+msg: frame=14400, objects=0, fps=36.97
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088979
+  nanosec: 188462331
+level: 20
+name: yolo_detector
+msg: frame=14430, objects=0, fps=35.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088980
+  nanosec: 278734759
+level: 20
+name: yolo_detector
+msg: frame=14460, objects=0, fps=34.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088981
+  nanosec: 597992416
+level: 20
+name: yolo_detector
+msg: frame=14490, objects=0, fps=30.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088982
+  nanosec: 629916539
+level: 20
+name: yolo_detector
+msg: frame=14520, objects=0, fps=36.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088983
+  nanosec: 683757619
+level: 20
+name: yolo_detector
+msg: frame=14550, objects=0, fps=35.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088984
+  nanosec: 739050173
+level: 20
+name: yolo_detector
+msg: frame=14580, objects=0, fps=34.27
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088985
+  nanosec: 886497396
+level: 20
+name: yolo_detector
+msg: frame=14610, objects=0, fps=35.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088987
+  nanosec: 22600959
+level: 20
+name: yolo_detector
+msg: frame=14640, objects=0, fps=34.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088988
+  nanosec: 38564144
+level: 20
+name: yolo_detector
+msg: frame=14670, objects=0, fps=36.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088989
+  nanosec: 111064980
+level: 20
+name: yolo_detector
+msg: frame=14700, objects=0, fps=35.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088990
+  nanosec: 157266691
+level: 20
+name: yolo_detector
+msg: frame=14730, objects=0, fps=35.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088991
+  nanosec: 227339730
+level: 20
+name: yolo_detector
+msg: frame=14760, objects=0, fps=35.84
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088992
+  nanosec: 283008652
+level: 20
+name: yolo_detector
+msg: frame=14790, objects=0, fps=34.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088993
+  nanosec: 323066118
+level: 20
+name: yolo_detector
+msg: frame=14820, objects=0, fps=35.57
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088994
+  nanosec: 370116532
+level: 20
+name: yolo_detector
+msg: frame=14850, objects=0, fps=34.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088995
+  nanosec: 419939011
+level: 20
+name: yolo_detector
+msg: frame=14880, objects=0, fps=34.78
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088996
+  nanosec: 479937494
+level: 20
+name: yolo_detector
+msg: frame=14910, objects=0, fps=34.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088997
+  nanosec: 534866817
+level: 20
+name: yolo_detector
+msg: frame=14940, objects=0, fps=34.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088998
+  nanosec: 592762460
+level: 20
+name: yolo_detector
+msg: frame=14970, objects=0, fps=34.85
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788088999
+  nanosec: 701258433
+level: 20
+name: yolo_detector
+msg: frame=15000, objects=0, fps=35.39
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089000
+  nanosec: 737364361
+level: 20
+name: yolo_detector
+msg: frame=15030, objects=0, fps=35.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089001
+  nanosec: 795062930
+level: 20
+name: yolo_detector
+msg: frame=15060, objects=0, fps=34.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089002
+  nanosec: 870675392
+level: 20
+name: yolo_detector
+msg: frame=15090, objects=0, fps=34.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089004
+  nanosec: 12904473
+level: 20
+name: yolo_detector
+msg: frame=15120, objects=1, fps=33.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089005
+  nanosec: 80626556
+level: 20
+name: yolo_detector
+msg: frame=15150, objects=0, fps=34.46
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089006
+  nanosec: 125320392
+level: 20
+name: yolo_detector
+msg: frame=15180, objects=0, fps=35.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089007
+  nanosec: 210320807
+level: 20
+name: yolo_detector
+msg: frame=15210, objects=0, fps=35.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089008
+  nanosec: 266831593
+level: 20
+name: yolo_detector
+msg: frame=15240, objects=0, fps=34.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089009
+  nanosec: 454191199
+level: 20
+name: yolo_detector
+msg: frame=15270, objects=0, fps=34.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089010
+  nanosec: 494070601
+level: 20
+name: yolo_detector
+msg: frame=15300, objects=0, fps=35.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089011
+  nanosec: 624006160
+level: 20
+name: yolo_detector
+msg: frame=15330, objects=2, fps=33.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089012
+  nanosec: 757585697
+level: 20
+name: yolo_detector
+msg: frame=15360, objects=1, fps=33.77
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089013
+  nanosec: 967123739
+level: 20
+name: yolo_detector
+msg: frame=15390, objects=2, fps=32.54
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089015
+  nanosec: 137920551
+level: 20
+name: yolo_detector
+msg: frame=15420, objects=0, fps=34.96
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089016
+  nanosec: 229418880
+level: 20
+name: yolo_detector
+msg: frame=15450, objects=1, fps=33.96
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089017
+  nanosec: 376255709
+level: 20
+name: yolo_detector
+msg: frame=15480, objects=1, fps=33.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089018
+  nanosec: 467396138
+level: 20
+name: yolo_detector
+msg: frame=15510, objects=0, fps=34.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089019
+  nanosec: 528313011
+level: 20
+name: yolo_detector
+msg: frame=15540, objects=0, fps=35.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089020
+  nanosec: 617444847
+level: 20
+name: yolo_detector
+msg: frame=15570, objects=0, fps=35.27
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089021
+  nanosec: 666797945
+level: 20
+name: yolo_detector
+msg: frame=15600, objects=0, fps=34.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089022
+  nanosec: 783331382
+level: 20
+name: yolo_detector
+msg: frame=15630, objects=0, fps=34.03
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089023
+  nanosec: 828554231
+level: 20
+name: yolo_detector
+msg: frame=15660, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089025
+  nanosec: 80910578
+level: 20
+name: yolo_detector
+msg: frame=15690, objects=0, fps=32.85
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089026
+  nanosec: 181581128
+level: 20
+name: yolo_detector
+msg: frame=15720, objects=0, fps=34.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089027
+  nanosec: 408151943
+level: 20
+name: yolo_detector
+msg: frame=15750, objects=0, fps=33.27
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089028
+  nanosec: 459716152
+level: 20
+name: yolo_detector
+msg: frame=15780, objects=0, fps=35.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089029
+  nanosec: 490662173
+level: 20
+name: yolo_detector
+msg: frame=15810, objects=0, fps=36.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089030
+  nanosec: 554833572
+level: 20
+name: yolo_detector
+msg: frame=15840, objects=0, fps=34.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089031
+  nanosec: 695495228
+level: 20
+name: yolo_detector
+msg: frame=15870, objects=0, fps=35.05
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089032
+  nanosec: 767856574
+level: 20
+name: yolo_detector
+msg: frame=15900, objects=0, fps=34.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089033
+  nanosec: 860278872
+level: 20
+name: yolo_detector
+msg: frame=15930, objects=1, fps=33.91
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089035
+  nanosec: 51939415
+level: 20
+name: yolo_detector
+msg: frame=15960, objects=1, fps=35.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089036
+  nanosec: 123785752
+level: 20
+name: yolo_detector
+msg: frame=15990, objects=0, fps=35.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089037
+  nanosec: 273368537
+level: 20
+name: yolo_detector
+msg: frame=16020, objects=0, fps=34.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089038
+  nanosec: 424009432
+level: 20
+name: yolo_detector
+msg: frame=16050, objects=0, fps=33.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089039
+  nanosec: 464404911
+level: 20
+name: yolo_detector
+msg: frame=16080, objects=0, fps=35.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089040
+  nanosec: 583122077
+level: 20
+name: yolo_detector
+msg: frame=16110, objects=1, fps=34.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089041
+  nanosec: 687279230
+level: 20
+name: yolo_detector
+msg: frame=16140, objects=0, fps=35.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089042
+  nanosec: 767559725
+level: 20
+name: yolo_detector
+msg: frame=16170, objects=0, fps=34.75
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089043
+  nanosec: 854826098
+level: 20
+name: yolo_detector
+msg: frame=16200, objects=0, fps=35.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089044
+  nanosec: 957972991
+level: 20
+name: yolo_detector
+msg: frame=16230, objects=0, fps=34.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089046
+  nanosec: 32095685
+level: 20
+name: yolo_detector
+msg: frame=16260, objects=0, fps=34.39
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089047
+  nanosec: 87305098
+level: 20
+name: yolo_detector
+msg: frame=16290, objects=0, fps=34.75
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089048
+  nanosec: 190359466
+level: 20
+name: yolo_detector
+msg: frame=16320, objects=0, fps=34.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089049
+  nanosec: 272354703
+level: 20
+name: yolo_detector
+msg: frame=16350, objects=0, fps=35.14
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089050
+  nanosec: 353189719
+level: 20
+name: yolo_detector
+msg: frame=16380, objects=0, fps=33.98
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089051
+  nanosec: 513783463
+level: 20
+name: yolo_detector
+msg: frame=16410, objects=0, fps=33.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089052
+  nanosec: 613200729
+level: 20
+name: yolo_detector
+msg: frame=16440, objects=0, fps=34.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089053
+  nanosec: 730460418
+level: 20
+name: yolo_detector
+msg: frame=16470, objects=1, fps=33.44
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089054
+  nanosec: 816484716
+level: 20
+name: yolo_detector
+msg: frame=16500, objects=0, fps=34.74
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089055
+  nanosec: 907970028
+level: 20
+name: yolo_detector
+msg: frame=16530, objects=1, fps=34.27
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089056
+  nanosec: 981743294
+level: 20
+name: yolo_detector
+msg: frame=16560, objects=0, fps=34.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089058
+  nanosec: 72302748
+level: 20
+name: yolo_detector
+msg: frame=16590, objects=0, fps=35.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089059
+  nanosec: 173292702
+level: 20
+name: yolo_detector
+msg: frame=16620, objects=0, fps=34.22
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089060
+  nanosec: 242474026
+level: 20
+name: yolo_detector
+msg: frame=16650, objects=0, fps=34.87
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089061
+  nanosec: 391209678
+level: 20
+name: yolo_detector
+msg: frame=16680, objects=1, fps=34.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089062
+  nanosec: 458007965
+level: 20
+name: yolo_detector
+msg: frame=16710, objects=0, fps=35.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089063
+  nanosec: 642027995
+level: 20
+name: yolo_detector
+msg: frame=16740, objects=1, fps=34.29
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089064
+  nanosec: 949037395
+level: 20
+name: yolo_detector
+msg: frame=16770, objects=0, fps=31.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089066
+  nanosec: 28242235
+level: 20
+name: yolo_detector
+msg: frame=16800, objects=0, fps=34.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089067
+  nanosec: 186525632
+level: 20
+name: yolo_detector
+msg: frame=16830, objects=0, fps=35.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089068
+  nanosec: 272751055
+level: 20
+name: yolo_detector
+msg: frame=16860, objects=1, fps=34.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089069
+  nanosec: 424917115
+level: 20
+name: yolo_detector
+msg: frame=16890, objects=1, fps=34.57
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089070
+  nanosec: 561098339
+level: 20
+name: yolo_detector
+msg: frame=16920, objects=0, fps=34.33
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089071
+  nanosec: 674087870
+level: 20
+name: yolo_detector
+msg: frame=16950, objects=1, fps=33.63
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089072
+  nanosec: 755177860
+level: 20
+name: yolo_detector
+msg: frame=16980, objects=0, fps=34.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089073
+  nanosec: 815146805
+level: 20
+name: yolo_detector
+msg: frame=17010, objects=0, fps=36.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089074
+  nanosec: 893707514
+level: 20
+name: yolo_detector
+msg: frame=17040, objects=0, fps=34.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089075
+  nanosec: 952875345
+level: 20
+name: yolo_detector
+msg: frame=17070, objects=0, fps=36.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089077
+  nanosec: 43912160
+level: 20
+name: yolo_detector
+msg: frame=17100, objects=0, fps=35.91
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089078
+  nanosec: 196844349
+level: 20
+name: yolo_detector
+msg: frame=17130, objects=1, fps=34.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089079
+  nanosec: 370365119
+level: 20
+name: yolo_detector
+msg: frame=17160, objects=1, fps=33.73
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089080
+  nanosec: 502706734
+level: 20
+name: yolo_detector
+msg: frame=17190, objects=1, fps=33.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089081
+  nanosec: 597291866
+level: 20
+name: yolo_detector
+msg: frame=17220, objects=0, fps=34.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089082
+  nanosec: 731782856
+level: 20
+name: yolo_detector
+msg: frame=17250, objects=1, fps=34.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089083
+  nanosec: 843144206
+level: 20
+name: yolo_detector
+msg: frame=17280, objects=1, fps=33.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089084
+  nanosec: 918021319
+level: 20
+name: yolo_detector
+msg: frame=17310, objects=1, fps=35.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089086
+  nanosec: 26595617
+level: 20
+name: yolo_detector
+msg: frame=17340, objects=1, fps=34.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089087
+  nanosec: 142890155
+level: 20
+name: yolo_detector
+msg: frame=17370, objects=1, fps=34.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089088
+  nanosec: 207873479
+level: 20
+name: yolo_detector
+msg: frame=17400, objects=0, fps=34.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089089
+  nanosec: 306709160
+level: 20
+name: yolo_detector
+msg: frame=17430, objects=0, fps=36.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089090
+  nanosec: 394903975
+level: 20
+name: yolo_detector
+msg: frame=17460, objects=1, fps=33.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089091
+  nanosec: 526952231
+level: 20
+name: yolo_detector
+msg: frame=17490, objects=1, fps=33.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089092
+  nanosec: 610538511
+level: 20
+name: yolo_detector
+msg: frame=17520, objects=1, fps=34.63
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089093
+  nanosec: 679189733
+level: 20
+name: yolo_detector
+msg: frame=17550, objects=0, fps=35.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089094
+  nanosec: 799294739
+level: 20
+name: yolo_detector
+msg: frame=17580, objects=0, fps=34.39
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089095
+  nanosec: 880826466
+level: 20
+name: yolo_detector
+msg: frame=17610, objects=0, fps=34.18
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089096
+  nanosec: 939931852
+level: 20
+name: yolo_detector
+msg: frame=17640, objects=0, fps=35.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089098
+  nanosec: 57503883
+level: 20
+name: yolo_detector
+msg: frame=17670, objects=0, fps=35.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089099
+  nanosec: 152768073
+level: 20
+name: yolo_detector
+msg: frame=17700, objects=0, fps=35.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089100
+  nanosec: 182898729
+level: 20
+name: yolo_detector
+msg: frame=17730, objects=0, fps=35.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089101
+  nanosec: 231335821
+level: 20
+name: yolo_detector
+msg: frame=17760, objects=0, fps=35.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089102
+  nanosec: 308385596
+level: 20
+name: yolo_detector
+msg: frame=17790, objects=0, fps=35.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089103
+  nanosec: 429681463
+level: 20
+name: yolo_detector
+msg: frame=17820, objects=0, fps=35.55
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089104
+  nanosec: 489372262
+level: 20
+name: yolo_detector
+msg: frame=17850, objects=0, fps=35.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089105
+  nanosec: 549475002
+level: 20
+name: yolo_detector
+msg: frame=17880, objects=0, fps=34.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089106
+  nanosec: 664698295
+level: 20
+name: yolo_detector
+msg: frame=17910, objects=0, fps=34.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089107
+  nanosec: 696371079
+level: 20
+name: yolo_detector
+msg: frame=17940, objects=0, fps=35.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089108
+  nanosec: 756958669
+level: 20
+name: yolo_detector
+msg: frame=17970, objects=0, fps=34.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089109
+  nanosec: 852031628
+level: 20
+name: yolo_detector
+msg: frame=18000, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089110
+  nanosec: 997971651
+level: 20
+name: yolo_detector
+msg: frame=18030, objects=0, fps=34.46
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089112
+  nanosec: 61043819
+level: 20
+name: yolo_detector
+msg: frame=18060, objects=0, fps=35.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089113
+  nanosec: 185769443
+level: 20
+name: yolo_detector
+msg: frame=18090, objects=0, fps=34.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089114
+  nanosec: 242717209
+level: 20
+name: yolo_detector
+msg: frame=18120, objects=0, fps=35.38
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089115
+  nanosec: 358159165
+level: 20
+name: yolo_detector
+msg: frame=18150, objects=0, fps=35.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089116
+  nanosec: 405185414
+level: 20
+name: yolo_detector
+msg: frame=18180, objects=0, fps=35.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089117
+  nanosec: 468307991
+level: 20
+name: yolo_detector
+msg: frame=18210, objects=0, fps=34.54
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089118
+  nanosec: 523370707
+level: 20
+name: yolo_detector
+msg: frame=18240, objects=0, fps=35.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089119
+  nanosec: 608668920
+level: 20
+name: yolo_detector
+msg: frame=18270, objects=0, fps=35.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089120
+  nanosec: 629282910
+level: 20
+name: yolo_detector
+msg: frame=18300, objects=0, fps=35.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089121
+  nanosec: 687996847
+level: 20
+name: yolo_detector
+msg: frame=18330, objects=0, fps=34.55
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089122
+  nanosec: 738772624
+level: 20
+name: yolo_detector
+msg: frame=18360, objects=0, fps=35.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089123
+  nanosec: 927716463
+level: 20
+name: yolo_detector
+msg: frame=18390, objects=0, fps=34.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089125
+  nanosec: 3597082
+level: 20
+name: yolo_detector
+msg: frame=18420, objects=0, fps=35.75
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089126
+  nanosec: 72097324
+level: 20
+name: yolo_detector
+msg: frame=18450, objects=0, fps=35.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089127
+  nanosec: 110775250
+level: 20
+name: yolo_detector
+msg: frame=18480, objects=0, fps=35.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089128
+  nanosec: 293052206
+level: 20
+name: yolo_detector
+msg: frame=18510, objects=0, fps=34.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089129
+  nanosec: 353082660
+level: 20
+name: yolo_detector
+msg: frame=18540, objects=0, fps=34.87
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089130
+  nanosec: 402004939
+level: 20
+name: yolo_detector
+msg: frame=18570, objects=0, fps=35.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089131
+  nanosec: 472489781
+level: 20
+name: yolo_detector
+msg: frame=18600, objects=0, fps=34.74
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089132
+  nanosec: 477550572
+level: 20
+name: yolo_detector
+msg: frame=18630, objects=0, fps=38.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089133
+  nanosec: 483487292
+level: 20
+name: yolo_detector
+msg: frame=18660, objects=0, fps=39.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089134
+  nanosec: 532046730
+level: 20
+name: yolo_detector
+msg: frame=18690, objects=0, fps=35.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089135
+  nanosec: 637148172
+level: 20
+name: yolo_detector
+msg: frame=18720, objects=0, fps=35.05
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089136
+  nanosec: 693176660
+level: 20
+name: yolo_detector
+msg: frame=18750, objects=0, fps=34.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089137
+  nanosec: 735214105
+level: 20
+name: yolo_detector
+msg: frame=18780, objects=0, fps=35.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089138
+  nanosec: 799474939
+level: 20
+name: yolo_detector
+msg: frame=18810, objects=0, fps=34.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089139
+  nanosec: 858356632
+level: 20
+name: yolo_detector
+msg: frame=18840, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089140
+  nanosec: 888657952
+level: 20
+name: yolo_detector
+msg: frame=18870, objects=0, fps=35.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089141
+  nanosec: 933717526
+level: 20
+name: yolo_detector
+msg: frame=18900, objects=0, fps=35.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089143
+  nanosec: 106174682
+level: 20
+name: yolo_detector
+msg: frame=18930, objects=0, fps=34.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089144
+  nanosec: 144079927
+level: 20
+name: yolo_detector
+msg: frame=18960, objects=0, fps=35.14
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089145
+  nanosec: 207435988
+level: 20
+name: yolo_detector
+msg: frame=18990, objects=0, fps=34.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089146
+  nanosec: 258852513
+level: 20
+name: yolo_detector
+msg: frame=19020, objects=0, fps=35.57
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089147
+  nanosec: 308614689
+level: 20
+name: yolo_detector
+msg: frame=19050, objects=0, fps=34.96
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089148
+  nanosec: 360923357
+level: 20
+name: yolo_detector
+msg: frame=19080, objects=0, fps=35.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089149
+  nanosec: 411496969
+level: 20
+name: yolo_detector
+msg: frame=19110, objects=0, fps=35.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089150
+  nanosec: 505270627
+level: 20
+name: yolo_detector
+msg: frame=19140, objects=0, fps=35.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089151
+  nanosec: 540858043
+level: 20
+name: yolo_detector
+msg: frame=19170, objects=0, fps=35.44
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089152
+  nanosec: 601088655
+level: 20
+name: yolo_detector
+msg: frame=19200, objects=0, fps=35.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089153
+  nanosec: 693429999
+level: 20
+name: yolo_detector
+msg: frame=19230, objects=0, fps=35.04
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089154
+  nanosec: 801082064
+level: 20
+name: yolo_detector
+msg: frame=19260, objects=0, fps=34.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089155
+  nanosec: 867809196
+level: 20
+name: yolo_detector
+msg: frame=19290, objects=0, fps=35.61
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089156
+  nanosec: 951916894
+level: 20
+name: yolo_detector
+msg: frame=19320, objects=0, fps=35.01
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089157
+  nanosec: 999339255
+level: 20
+name: yolo_detector
+msg: frame=19350, objects=0, fps=35.49
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089159
+  nanosec: 184698262
+level: 20
+name: yolo_detector
+msg: frame=19380, objects=0, fps=34.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089160
+  nanosec: 254497858
+level: 20
+name: yolo_detector
+msg: frame=19410, objects=0, fps=35.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089161
+  nanosec: 322995152
+level: 20
+name: yolo_detector
+msg: frame=19440, objects=0, fps=34.61
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089162
+  nanosec: 473433287
+level: 20
+name: yolo_detector
+msg: frame=19470, objects=0, fps=35.49
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089163
+  nanosec: 530096608
+level: 20
+name: yolo_detector
+msg: frame=19500, objects=0, fps=36.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089164
+  nanosec: 591999396
+level: 20
+name: yolo_detector
+msg: frame=19530, objects=0, fps=35.57
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089165
+  nanosec: 660727313
+level: 20
+name: yolo_detector
+msg: frame=19560, objects=0, fps=34.78
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089166
+  nanosec: 760724100
+level: 20
+name: yolo_detector
+msg: frame=19590, objects=0, fps=35.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089167
+  nanosec: 857669521
+level: 20
+name: yolo_detector
+msg: frame=19620, objects=0, fps=34.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089169
+  nanosec: 42990821
+level: 20
+name: yolo_detector
+msg: frame=19650, objects=0, fps=34.49
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089170
+  nanosec: 126174223
+level: 20
+name: yolo_detector
+msg: frame=19680, objects=0, fps=34.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089171
+  nanosec: 177505576
+level: 20
+name: yolo_detector
+msg: frame=19710, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089172
+  nanosec: 219987730
+level: 20
+name: yolo_detector
+msg: frame=19740, objects=0, fps=34.87
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089173
+  nanosec: 255771108
+level: 20
+name: yolo_detector
+msg: frame=19770, objects=0, fps=36.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089174
+  nanosec: 346248395
+level: 20
+name: yolo_detector
+msg: frame=19800, objects=0, fps=36.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089175
+  nanosec: 483974138
+level: 20
+name: yolo_detector
+msg: frame=19830, objects=0, fps=34.44
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089176
+  nanosec: 522488861
+level: 20
+name: yolo_detector
+msg: frame=19860, objects=0, fps=35.88
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089177
+  nanosec: 622296893
+level: 20
+name: yolo_detector
+msg: frame=19890, objects=0, fps=35.87
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089178
+  nanosec: 748068233
+level: 20
+name: yolo_detector
+msg: frame=19920, objects=0, fps=35.01
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089179
+  nanosec: 782032054
+level: 20
+name: yolo_detector
+msg: frame=19950, objects=0, fps=36.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089180
+  nanosec: 893387913
+level: 20
+name: yolo_detector
+msg: frame=19980, objects=0, fps=35.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089182
+  nanosec: 38316376
+level: 20
+name: yolo_detector
+msg: frame=20010, objects=0, fps=35.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089183
+  nanosec: 100376819
+level: 20
+name: yolo_detector
+msg: frame=20040, objects=0, fps=34.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089184
+  nanosec: 166287902
+level: 20
+name: yolo_detector
+msg: frame=20070, objects=0, fps=35.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089185
+  nanosec: 377255471
+level: 20
+name: yolo_detector
+msg: frame=20100, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089186
+  nanosec: 601692721
+level: 20
+name: yolo_detector
+msg: frame=20130, objects=0, fps=33.03
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089187
+  nanosec: 649660779
+level: 20
+name: yolo_detector
+msg: frame=20160, objects=0, fps=35.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089188
+  nanosec: 642992069
+level: 20
+name: yolo_detector
+msg: frame=20190, objects=0, fps=38.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089189
+  nanosec: 744434930
+level: 20
+name: yolo_detector
+msg: frame=20220, objects=0, fps=35.58
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089190
+  nanosec: 810456709
+level: 20
+name: yolo_detector
+msg: frame=20250, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089191
+  nanosec: 915721368
+level: 20
+name: yolo_detector
+msg: frame=20280, objects=0, fps=35.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089193
+  nanosec: 16206528
+level: 20
+name: yolo_detector
+msg: frame=20310, objects=0, fps=36.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089194
+  nanosec: 66703621
+level: 20
+name: yolo_detector
+msg: frame=20340, objects=0, fps=35.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089195
+  nanosec: 76097613
+level: 20
+name: yolo_detector
+msg: frame=20370, objects=0, fps=39.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089196
+  nanosec: 78332077
+level: 20
+name: yolo_detector
+msg: frame=20400, objects=0, fps=39.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089197
+  nanosec: 118293264
+level: 20
+name: yolo_detector
+msg: frame=20430, objects=0, fps=37.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089198
+  nanosec: 191206260
+level: 20
+name: yolo_detector
+msg: frame=20460, objects=0, fps=34.83
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089199
+  nanosec: 238228927
+level: 20
+name: yolo_detector
+msg: frame=20490, objects=0, fps=35.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089200
+  nanosec: 290343853
+level: 20
+name: yolo_detector
+msg: frame=20520, objects=0, fps=35.14
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089201
+  nanosec: 324471616
+level: 20
+name: yolo_detector
+msg: frame=20550, objects=0, fps=37.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089202
+  nanosec: 358615915
+level: 20
+name: yolo_detector
+msg: frame=20580, objects=0, fps=35.99
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089203
+  nanosec: 404926005
+level: 20
+name: yolo_detector
+msg: frame=20610, objects=0, fps=34.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089204
+  nanosec: 477589014
+level: 20
+name: yolo_detector
+msg: frame=20640, objects=0, fps=37.83
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089205
+  nanosec: 530982569
+level: 20
+name: yolo_detector
+msg: frame=20670, objects=0, fps=35.18
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089206
+  nanosec: 583984740
+level: 20
+name: yolo_detector
+msg: frame=20700, objects=0, fps=37.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089207
+  nanosec: 666273898
+level: 20
+name: yolo_detector
+msg: frame=20730, objects=0, fps=35.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089208
+  nanosec: 709415206
+level: 20
+name: yolo_detector
+msg: frame=20760, objects=0, fps=35.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089209
+  nanosec: 779007997
+level: 20
+name: yolo_detector
+msg: frame=20790, objects=0, fps=35.38
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089210
+  nanosec: 839956465
+level: 20
+name: yolo_detector
+msg: frame=20820, objects=0, fps=35.05
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089211
+  nanosec: 919602599
+level: 20
+name: yolo_detector
+msg: frame=20850, objects=0, fps=34.67
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089212
+  nanosec: 949880476
+level: 20
+name: yolo_detector
+msg: frame=20880, objects=0, fps=35.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089213
+  nanosec: 988818051
+level: 20
+name: yolo_detector
+msg: frame=20910, objects=0, fps=35.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089215
+  nanosec: 85598730
+level: 20
+name: yolo_detector
+msg: frame=20940, objects=0, fps=35.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089216
+  nanosec: 120635074
+level: 20
+name: yolo_detector
+msg: frame=20970, objects=0, fps=36.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089217
+  nanosec: 141530268
+level: 20
+name: yolo_detector
+msg: frame=21000, objects=0, fps=39.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089218
+  nanosec: 140465504
+level: 20
+name: yolo_detector
+msg: frame=21030, objects=0, fps=40.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089219
+  nanosec: 154854341
+level: 20
+name: yolo_detector
+msg: frame=21060, objects=0, fps=38.11
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089220
+  nanosec: 136829459
+level: 20
+name: yolo_detector
+msg: frame=21090, objects=0, fps=40.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089221
+  nanosec: 145928500
+level: 20
+name: yolo_detector
+msg: frame=21120, objects=0, fps=39.67
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089222
+  nanosec: 244423616
+level: 20
+name: yolo_detector
+msg: frame=21150, objects=0, fps=35.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089223
+  nanosec: 299425785
+level: 20
+name: yolo_detector
+msg: frame=21180, objects=0, fps=35.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089224
+  nanosec: 429478494
+level: 20
+name: yolo_detector
+msg: frame=21210, objects=0, fps=35.46
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089225
+  nanosec: 521187262
+level: 20
+name: yolo_detector
+msg: frame=21240, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089226
+  nanosec: 611546591
+level: 20
+name: yolo_detector
+msg: frame=21270, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089227
+  nanosec: 633005592
+level: 20
+name: yolo_detector
+msg: frame=21300, objects=0, fps=35.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089228
+  nanosec: 727491883
+level: 20
+name: yolo_detector
+msg: frame=21330, objects=0, fps=35.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089229
+  nanosec: 827732634
+level: 20
+name: yolo_detector
+msg: frame=21360, objects=0, fps=35.16
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089230
+  nanosec: 853673260
+level: 20
+name: yolo_detector
+msg: frame=21390, objects=0, fps=36.04
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089231
+  nanosec: 914339999
+level: 20
+name: yolo_detector
+msg: frame=21420, objects=0, fps=35.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089232
+  nanosec: 968231322
+level: 20
+name: yolo_detector
+msg: frame=21450, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089234
+  nanosec: 8144000
+level: 20
+name: yolo_detector
+msg: frame=21480, objects=0, fps=36.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089235
+  nanosec: 62605696
+level: 20
+name: yolo_detector
+msg: frame=21510, objects=0, fps=35.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089236
+  nanosec: 137753392
+level: 20
+name: yolo_detector
+msg: frame=21540, objects=0, fps=34.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089237
+  nanosec: 282661168
+level: 20
+name: yolo_detector
+msg: frame=21570, objects=0, fps=35.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089238
+  nanosec: 322070750
+level: 20
+name: yolo_detector
+msg: frame=21600, objects=0, fps=35.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089239
+  nanosec: 349935768
+level: 20
+name: yolo_detector
+msg: frame=21630, objects=0, fps=37.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089240
+  nanosec: 384739006
+level: 20
+name: yolo_detector
+msg: frame=21660, objects=0, fps=35.14
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089241
+  nanosec: 418665945
+level: 20
+name: yolo_detector
+msg: frame=21690, objects=0, fps=34.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089242
+  nanosec: 468305276
+level: 20
+name: yolo_detector
+msg: frame=21720, objects=0, fps=35.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089243
+  nanosec: 548923079
+level: 20
+name: yolo_detector
+msg: frame=21750, objects=0, fps=35.55
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089244
+  nanosec: 596546569
+level: 20
+name: yolo_detector
+msg: frame=21780, objects=0, fps=35.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089245
+  nanosec: 649516279
+level: 20
+name: yolo_detector
+msg: frame=21810, objects=0, fps=36.57
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089246
+  nanosec: 734995529
+level: 20
+name: yolo_detector
+msg: frame=21840, objects=0, fps=35.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089247
+  nanosec: 799238341
+level: 20
+name: yolo_detector
+msg: frame=21870, objects=0, fps=34.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089248
+  nanosec: 852755311
+level: 20
+name: yolo_detector
+msg: frame=21900, objects=0, fps=35.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089249
+  nanosec: 902050248
+level: 20
+name: yolo_detector
+msg: frame=21930, objects=0, fps=35.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089250
+  nanosec: 986113375
+level: 20
+name: yolo_detector
+msg: frame=21960, objects=0, fps=35.16
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089252
+  nanosec: 41179820
+level: 20
+name: yolo_detector
+msg: frame=21990, objects=0, fps=35.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089253
+  nanosec: 146089643
+level: 20
+name: yolo_detector
+msg: frame=22020, objects=0, fps=35.06
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089254
+  nanosec: 221041692
+level: 20
+name: yolo_detector
+msg: frame=22050, objects=0, fps=35.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089255
+  nanosec: 268968820
+level: 20
+name: yolo_detector
+msg: frame=22080, objects=0, fps=34.61
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089256
+  nanosec: 336403626
+level: 20
+name: yolo_detector
+msg: frame=22110, objects=0, fps=34.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089257
+  nanosec: 383134946
+level: 20
+name: yolo_detector
+msg: frame=22140, objects=0, fps=35.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089258
+  nanosec: 455701682
+level: 20
+name: yolo_detector
+msg: frame=22170, objects=0, fps=34.88
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089259
+  nanosec: 489918697
+level: 20
+name: yolo_detector
+msg: frame=22200, objects=0, fps=34.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089260
+  nanosec: 523193202
+level: 20
+name: yolo_detector
+msg: frame=22230, objects=0, fps=36.22
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089261
+  nanosec: 563739604
+level: 20
+name: yolo_detector
+msg: frame=22260, objects=0, fps=35.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089262
+  nanosec: 616538707
+level: 20
+name: yolo_detector
+msg: frame=22290, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089263
+  nanosec: 678404593
+level: 20
+name: yolo_detector
+msg: frame=22320, objects=0, fps=34.69
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089264
+  nanosec: 819814614
+level: 20
+name: yolo_detector
+msg: frame=22350, objects=0, fps=34.99
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089265
+  nanosec: 878152471
+level: 20
+name: yolo_detector
+msg: frame=22380, objects=0, fps=34.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089266
+  nanosec: 912018247
+level: 20
+name: yolo_detector
+msg: frame=22410, objects=0, fps=35.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089267
+  nanosec: 945273782
+level: 20
+name: yolo_detector
+msg: frame=22440, objects=0, fps=36.97
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089269
+  nanosec: 41899370
+level: 20
+name: yolo_detector
+msg: frame=22470, objects=0, fps=37.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089270
+  nanosec: 142320459
+level: 20
+name: yolo_detector
+msg: frame=22500, objects=0, fps=35.84
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089271
+  nanosec: 187896137
+level: 20
+name: yolo_detector
+msg: frame=22530, objects=0, fps=35.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089272
+  nanosec: 253370578
+level: 20
+name: yolo_detector
+msg: frame=22560, objects=0, fps=34.63
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089273
+  nanosec: 310526154
+level: 20
+name: yolo_detector
+msg: frame=22590, objects=0, fps=35.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089274
+  nanosec: 416833169
+level: 20
+name: yolo_detector
+msg: frame=22620, objects=0, fps=35.73
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089275
+  nanosec: 520501543
+level: 20
+name: yolo_detector
+msg: frame=22650, objects=0, fps=33.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089276
+  nanosec: 589942220
+level: 20
+name: yolo_detector
+msg: frame=22680, objects=0, fps=35.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089277
+  nanosec: 709374879
+level: 20
+name: yolo_detector
+msg: frame=22710, objects=0, fps=35.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089278
+  nanosec: 895716190
+level: 20
+name: yolo_detector
+msg: frame=22740, objects=0, fps=34.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089279
+  nanosec: 943718489
+level: 20
+name: yolo_detector
+msg: frame=22770, objects=0, fps=37.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089281
+  nanosec: 79234061
+level: 20
+name: yolo_detector
+msg: frame=22800, objects=0, fps=35.61
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089282
+  nanosec: 112589141
+level: 20
+name: yolo_detector
+msg: frame=22830, objects=0, fps=37.46
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089283
+  nanosec: 207624249
+level: 20
+name: yolo_detector
+msg: frame=22860, objects=0, fps=35.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089284
+  nanosec: 216645520
+level: 20
+name: yolo_detector
+msg: frame=22890, objects=0, fps=36.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089285
+  nanosec: 231641677
+level: 20
+name: yolo_detector
+msg: frame=22920, objects=0, fps=38.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089286
+  nanosec: 309738076
+level: 20
+name: yolo_detector
+msg: frame=22950, objects=0, fps=35.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089287
+  nanosec: 352223365
+level: 20
+name: yolo_detector
+msg: frame=22980, objects=0, fps=34.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089288
+  nanosec: 379287975
+level: 20
+name: yolo_detector
+msg: frame=23010, objects=0, fps=35.16
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089289
+  nanosec: 423433411
+level: 20
+name: yolo_detector
+msg: frame=23040, objects=0, fps=35.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089290
+  nanosec: 496748885
+level: 20
+name: yolo_detector
+msg: frame=23070, objects=0, fps=35.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089291
+  nanosec: 543889431
+level: 20
+name: yolo_detector
+msg: frame=23100, objects=0, fps=38.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089292
+  nanosec: 567192262
+level: 20
+name: yolo_detector
+msg: frame=23130, objects=0, fps=35.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089293
+  nanosec: 737512431
+level: 20
+name: yolo_detector
+msg: frame=23160, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089294
+  nanosec: 922909952
+level: 20
+name: yolo_detector
+msg: frame=23190, objects=0, fps=33.77
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089295
+  nanosec: 968802737
+level: 20
+name: yolo_detector
+msg: frame=23220, objects=0, fps=35.55
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089297
+  nanosec: 82976250
+level: 20
+name: yolo_detector
+msg: frame=23250, objects=0, fps=35.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089298
+  nanosec: 216391856
+level: 20
+name: yolo_detector
+msg: frame=23280, objects=0, fps=35.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089299
+  nanosec: 279004251
+level: 20
+name: yolo_detector
+msg: frame=23310, objects=0, fps=35.83
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089300
+  nanosec: 280679359
+level: 20
+name: yolo_detector
+msg: frame=23340, objects=0, fps=39.07
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089301
+  nanosec: 330745228
+level: 20
+name: yolo_detector
+msg: frame=23370, objects=0, fps=36.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089302
+  nanosec: 389791635
+level: 20
+name: yolo_detector
+msg: frame=23400, objects=0, fps=34.91
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089303
+  nanosec: 466192733
+level: 20
+name: yolo_detector
+msg: frame=23430, objects=0, fps=33.77
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089304
+  nanosec: 529094060
+level: 20
+name: yolo_detector
+msg: frame=23460, objects=0, fps=35.18
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089305
+  nanosec: 663368426
+level: 20
+name: yolo_detector
+msg: frame=23490, objects=0, fps=31.98
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089306
+  nanosec: 714134668
+level: 20
+name: yolo_detector
+msg: frame=23520, objects=0, fps=36.49
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089307
+  nanosec: 841454216
+level: 20
+name: yolo_detector
+msg: frame=23550, objects=0, fps=34.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089308
+  nanosec: 949438403
+level: 20
+name: yolo_detector
+msg: frame=23580, objects=0, fps=33.22
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089310
+  nanosec: 59283551
+level: 20
+name: yolo_detector
+msg: frame=23610, objects=0, fps=33.83
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089311
+  nanosec: 237719480
+level: 20
+name: yolo_detector
+msg: frame=23640, objects=0, fps=36.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089312
+  nanosec: 250739655
+level: 20
+name: yolo_detector
+msg: frame=23670, objects=0, fps=36.80
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089313
+  nanosec: 289493762
+level: 20
+name: yolo_detector
+msg: frame=23700, objects=0, fps=37.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089314
+  nanosec: 352539344
+level: 20
+name: yolo_detector
+msg: frame=23730, objects=0, fps=33.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089315
+  nanosec: 419190563
+level: 20
+name: yolo_detector
+msg: frame=23760, objects=0, fps=35.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089316
+  nanosec: 484709954
+level: 20
+name: yolo_detector
+msg: frame=23790, objects=0, fps=34.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089317
+  nanosec: 519303516
+level: 20
+name: yolo_detector
+msg: frame=23820, objects=0, fps=35.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089318
+  nanosec: 671963975
+level: 20
+name: yolo_detector
+msg: frame=23850, objects=0, fps=35.58
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089319
+  nanosec: 776954267
+level: 20
+name: yolo_detector
+msg: frame=23880, objects=0, fps=35.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089320
+  nanosec: 852163480
+level: 20
+name: yolo_detector
+msg: frame=23910, objects=0, fps=34.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089321
+  nanosec: 949015357
+level: 20
+name: yolo_detector
+msg: frame=23940, objects=0, fps=35.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089322
+  nanosec: 976137292
+level: 20
+name: yolo_detector
+msg: frame=23970, objects=0, fps=37.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089324
+  nanosec: 29649375
+level: 20
+name: yolo_detector
+msg: frame=24000, objects=0, fps=35.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089325
+  nanosec: 219724529
+level: 20
+name: yolo_detector
+msg: frame=24030, objects=0, fps=34.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089326
+  nanosec: 343513462
+level: 20
+name: yolo_detector
+msg: frame=24060, objects=0, fps=34.58
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089327
+  nanosec: 457365773
+level: 20
+name: yolo_detector
+msg: frame=24090, objects=0, fps=34.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089328
+  nanosec: 582809570
+level: 20
+name: yolo_detector
+msg: frame=24120, objects=0, fps=35.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089329
+  nanosec: 647200503
+level: 20
+name: yolo_detector
+msg: frame=24150, objects=0, fps=34.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089330
+  nanosec: 695198084
+level: 20
+name: yolo_detector
+msg: frame=24180, objects=0, fps=35.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089331
+  nanosec: 762275956
+level: 20
+name: yolo_detector
+msg: frame=24210, objects=0, fps=34.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089332
+  nanosec: 980194605
+level: 20
+name: yolo_detector
+msg: frame=24240, objects=0, fps=33.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089334
+  nanosec: 29552535
+level: 20
+name: yolo_detector
+msg: frame=24270, objects=0, fps=34.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089335
+  nanosec: 84424371
+level: 20
+name: yolo_detector
+msg: frame=24300, objects=0, fps=35.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089336
+  nanosec: 138425060
+level: 20
+name: yolo_detector
+msg: frame=24330, objects=0, fps=35.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089337
+  nanosec: 188845987
+level: 20
+name: yolo_detector
+msg: frame=24360, objects=0, fps=35.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089338
+  nanosec: 308977761
+level: 20
+name: yolo_detector
+msg: frame=24390, objects=0, fps=33.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089339
+  nanosec: 386047971
+level: 20
+name: yolo_detector
+msg: frame=24420, objects=0, fps=35.06
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089340
+  nanosec: 469215499
+level: 20
+name: yolo_detector
+msg: frame=24450, objects=0, fps=36.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089341
+  nanosec: 591074037
+level: 20
+name: yolo_detector
+msg: frame=24480, objects=0, fps=35.49
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089342
+  nanosec: 654978686
+level: 20
+name: yolo_detector
+msg: frame=24510, objects=0, fps=35.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089343
+  nanosec: 741794943
+level: 20
+name: yolo_detector
+msg: frame=24540, objects=0, fps=35.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089344
+  nanosec: 863055257
+level: 20
+name: yolo_detector
+msg: frame=24570, objects=0, fps=31.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089346
+  nanosec: 89062567
+level: 20
+name: yolo_detector
+msg: frame=24600, objects=0, fps=32.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089347
+  nanosec: 189035857
+level: 20
+name: yolo_detector
+msg: frame=24630, objects=1, fps=34.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089348
+  nanosec: 337665248
+level: 20
+name: yolo_detector
+msg: frame=24660, objects=1, fps=33.27
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089349
+  nanosec: 697463928
+level: 20
+name: yolo_detector
+msg: frame=24690, objects=0, fps=30.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089350
+  nanosec: 954426713
+level: 20
+name: yolo_detector
+msg: frame=24720, objects=3, fps=31.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089352
+  nanosec: 368652902
+level: 20
+name: yolo_detector
+msg: frame=24750, objects=1, fps=29.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089353
+  nanosec: 646837484
+level: 20
+name: yolo_detector
+msg: frame=24780, objects=1, fps=32.01
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089354
+  nanosec: 932515373
+level: 20
+name: yolo_detector
+msg: frame=24810, objects=1, fps=28.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089356
+  nanosec: 103480203
+level: 20
+name: yolo_detector
+msg: frame=24840, objects=0, fps=32.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089357
+  nanosec: 214841484
+level: 20
+name: yolo_detector
+msg: frame=24870, objects=0, fps=33.11
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089358
+  nanosec: 357993661
+level: 20
+name: yolo_detector
+msg: frame=24900, objects=0, fps=34.22
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089359
+  nanosec: 520958729
+level: 20
+name: yolo_detector
+msg: frame=24930, objects=0, fps=33.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089360
+  nanosec: 651244501
+level: 20
+name: yolo_detector
+msg: frame=24960, objects=0, fps=34.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089361
+  nanosec: 844739126
+level: 20
+name: yolo_detector
+msg: frame=24990, objects=1, fps=32.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089363
+  nanosec: 202850683
+level: 20
+name: yolo_detector
+msg: frame=25020, objects=1, fps=30.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089364
+  nanosec: 377482507
+level: 20
+name: yolo_detector
+msg: frame=25050, objects=0, fps=34.46
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089365
+  nanosec: 509382195
+level: 20
+name: yolo_detector
+msg: frame=25080, objects=0, fps=34.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089366
+  nanosec: 657209631
+level: 20
+name: yolo_detector
+msg: frame=25110, objects=0, fps=33.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089367
+  nanosec: 749428048
+level: 20
+name: yolo_detector
+msg: frame=25140, objects=0, fps=34.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089368
+  nanosec: 850404301
+level: 20
+name: yolo_detector
+msg: frame=25170, objects=1, fps=33.01
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089370
+  nanosec: 80466914
+level: 20
+name: yolo_detector
+msg: frame=25200, objects=1, fps=30.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089371
+  nanosec: 442367157
+level: 20
+name: yolo_detector
+msg: frame=25230, objects=0, fps=32.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089372
+  nanosec: 580499647
+level: 20
+name: yolo_detector
+msg: frame=25260, objects=0, fps=33.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089373
+  nanosec: 762435528
+level: 20
+name: yolo_detector
+msg: frame=25290, objects=0, fps=32.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089374
+  nanosec: 844067022
+level: 20
+name: yolo_detector
+msg: frame=25320, objects=0, fps=35.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089375
+  nanosec: 982971807
+level: 20
+name: yolo_detector
+msg: frame=25350, objects=0, fps=32.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089377
+  nanosec: 136932433
+level: 20
+name: yolo_detector
+msg: frame=25380, objects=0, fps=32.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089378
+  nanosec: 220279747
+level: 20
+name: yolo_detector
+msg: frame=25410, objects=0, fps=37.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089379
+  nanosec: 282034983
+level: 20
+name: yolo_detector
+msg: frame=25440, objects=0, fps=35.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089380
+  nanosec: 432793862
+level: 20
+name: yolo_detector
+msg: frame=25470, objects=0, fps=35.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089381
+  nanosec: 529427591
+level: 20
+name: yolo_detector
+msg: frame=25500, objects=0, fps=33.77
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089382
+  nanosec: 742558189
+level: 20
+name: yolo_detector
+msg: frame=25530, objects=0, fps=32.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089383
+  nanosec: 841526041
+level: 20
+name: yolo_detector
+msg: frame=25560, objects=0, fps=39.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089384
+  nanosec: 835323468
+level: 20
+name: yolo_detector
+msg: frame=25590, objects=0, fps=40.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089385
+  nanosec: 840010880
+level: 20
+name: yolo_detector
+msg: frame=25620, objects=0, fps=40.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089386
+  nanosec: 838338584
+level: 20
+name: yolo_detector
+msg: frame=25650, objects=0, fps=39.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089387
+  nanosec: 940155961
+level: 20
+name: yolo_detector
+msg: frame=25680, objects=0, fps=34.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089389
+  nanosec: 129017027
+level: 20
+name: yolo_detector
+msg: frame=25710, objects=0, fps=36.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089390
+  nanosec: 379731459
+level: 20
+name: yolo_detector
+msg: frame=25740, objects=0, fps=34.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089391
+  nanosec: 366253174
+level: 20
+name: yolo_detector
+msg: frame=25770, objects=0, fps=40.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089392
+  nanosec: 369789303
+level: 20
+name: yolo_detector
+msg: frame=25800, objects=0, fps=40.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089393
+  nanosec: 553382742
+level: 20
+name: yolo_detector
+msg: frame=25830, objects=0, fps=30.46
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089394
+  nanosec: 574065571
+level: 20
+name: yolo_detector
+msg: frame=25860, objects=0, fps=34.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089395
+  nanosec: 865458053
+level: 20
+name: yolo_detector
+msg: frame=25890, objects=0, fps=32.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089397
+  nanosec: 23331816
+level: 20
+name: yolo_detector
+msg: frame=25920, objects=1, fps=34.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089398
+  nanosec: 63209672
+level: 20
+name: yolo_detector
+msg: frame=25950, objects=0, fps=35.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089399
+  nanosec: 157140431
+level: 20
+name: yolo_detector
+msg: frame=25980, objects=0, fps=34.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089400
+  nanosec: 240366865
+level: 20
+name: yolo_detector
+msg: frame=26010, objects=0, fps=34.99
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089401
+  nanosec: 326049035
+level: 20
+name: yolo_detector
+msg: frame=26040, objects=0, fps=36.38
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089402
+  nanosec: 379419228
+level: 20
+name: yolo_detector
+msg: frame=26070, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089403
+  nanosec: 496212446
+level: 20
+name: yolo_detector
+msg: frame=26100, objects=0, fps=34.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089404
+  nanosec: 687683938
+level: 20
+name: yolo_detector
+msg: frame=26130, objects=0, fps=34.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089405
+  nanosec: 748206676
+level: 20
+name: yolo_detector
+msg: frame=26160, objects=0, fps=34.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089406
+  nanosec: 817936771
+level: 20
+name: yolo_detector
+msg: frame=26190, objects=0, fps=33.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089407
+  nanosec: 890155340
+level: 20
+name: yolo_detector
+msg: frame=26220, objects=0, fps=36.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089408
+  nanosec: 876175337
+level: 20
+name: yolo_detector
+msg: frame=26250, objects=0, fps=38.75
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089409
+  nanosec: 871749458
+level: 20
+name: yolo_detector
+msg: frame=26280, objects=0, fps=38.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089410
+  nanosec: 872187729
+level: 20
+name: yolo_detector
+msg: frame=26310, objects=1, fps=40.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089411
+  nanosec: 869716154
+level: 20
+name: yolo_detector
+msg: frame=26340, objects=0, fps=39.18
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089412
+  nanosec: 872143899
+level: 20
+name: yolo_detector
+msg: frame=26370, objects=0, fps=40.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089413
+  nanosec: 871834892
+level: 20
+name: yolo_detector
+msg: frame=26400, objects=0, fps=40.67
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089414
+  nanosec: 952676472
+level: 20
+name: yolo_detector
+msg: frame=26430, objects=0, fps=34.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089416
+  nanosec: 32388850
+level: 20
+name: yolo_detector
+msg: frame=26460, objects=1, fps=35.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089417
+  nanosec: 153993048
+level: 20
+name: yolo_detector
+msg: frame=26490, objects=1, fps=33.07
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089418
+  nanosec: 297705420
+level: 20
+name: yolo_detector
+msg: frame=26520, objects=1, fps=31.97
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089419
+  nanosec: 590297359
+level: 20
+name: yolo_detector
+msg: frame=26550, objects=1, fps=32.12
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089420
+  nanosec: 792701583
+level: 20
+name: yolo_detector
+msg: frame=26580, objects=1, fps=31.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089422
+  nanosec: 27253376
+level: 20
+name: yolo_detector
+msg: frame=26610, objects=2, fps=31.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089423
+  nanosec: 220340968
+level: 20
+name: yolo_detector
+msg: frame=26640, objects=1, fps=33.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089424
+  nanosec: 401083883
+level: 20
+name: yolo_detector
+msg: frame=26670, objects=0, fps=31.78
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089425
+  nanosec: 577107793
+level: 20
+name: yolo_detector
+msg: frame=26700, objects=1, fps=31.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089426
+  nanosec: 752837285
+level: 20
+name: yolo_detector
+msg: frame=26730, objects=0, fps=33.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089427
+  nanosec: 886065865
+level: 20
+name: yolo_detector
+msg: frame=26760, objects=0, fps=33.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089429
+  nanosec: 95748843
+level: 20
+name: yolo_detector
+msg: frame=26790, objects=1, fps=32.03
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089430
+  nanosec: 287107618
+level: 20
+name: yolo_detector
+msg: frame=26820, objects=0, fps=31.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089431
+  nanosec: 397934001
+level: 20
+name: yolo_detector
+msg: frame=26850, objects=1, fps=33.87
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089432
+  nanosec: 643787759
+level: 20
+name: yolo_detector
+msg: frame=26880, objects=1, fps=30.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089433
+  nanosec: 811026542
+level: 20
+name: yolo_detector
+msg: frame=26910, objects=2, fps=32.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089435
+  nanosec: 11462629
+level: 20
+name: yolo_detector
+msg: frame=26940, objects=2, fps=31.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089436
+  nanosec: 279213718
+level: 20
+name: yolo_detector
+msg: frame=26970, objects=0, fps=33.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089437
+  nanosec: 413539402
+level: 20
+name: yolo_detector
+msg: frame=27000, objects=0, fps=34.44
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089438
+  nanosec: 585012463
+level: 20
+name: yolo_detector
+msg: frame=27030, objects=0, fps=33.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089439
+  nanosec: 758786597
+level: 20
+name: yolo_detector
+msg: frame=27060, objects=0, fps=33.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089440
+  nanosec: 873178053
+level: 20
+name: yolo_detector
+msg: frame=27090, objects=0, fps=33.80
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089442
+  nanosec: 36558748
+level: 20
+name: yolo_detector
+msg: frame=27120, objects=0, fps=33.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089443
+  nanosec: 182524622
+level: 20
+name: yolo_detector
+msg: frame=27150, objects=0, fps=33.07
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089444
+  nanosec: 451935464
+level: 20
+name: yolo_detector
+msg: frame=27180, objects=0, fps=29.16
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089445
+  nanosec: 505992763
+level: 20
+name: yolo_detector
+msg: frame=27210, objects=0, fps=35.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089446
+  nanosec: 542917301
+level: 20
+name: yolo_detector
+msg: frame=27240, objects=0, fps=39.09
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089447
+  nanosec: 575836591
+level: 20
+name: yolo_detector
+msg: frame=27270, objects=0, fps=35.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089448
+  nanosec: 668110319
+level: 20
+name: yolo_detector
+msg: frame=27300, objects=0, fps=35.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089449
+  nanosec: 806992137
+level: 20
+name: yolo_detector
+msg: frame=27330, objects=0, fps=33.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089450
+  nanosec: 829849198
+level: 20
+name: yolo_detector
+msg: frame=27360, objects=0, fps=38.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089451
+  nanosec: 871822702
+level: 20
+name: yolo_detector
+msg: frame=27390, objects=0, fps=37.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089452
+  nanosec: 933484956
+level: 20
+name: yolo_detector
+msg: frame=27420, objects=0, fps=35.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089453
+  nanosec: 997773674
+level: 20
+name: yolo_detector
+msg: frame=27450, objects=0, fps=35.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089455
+  nanosec: 90569433
+level: 20
+name: yolo_detector
+msg: frame=27480, objects=1, fps=34.85
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089456
+  nanosec: 167539426
+level: 20
+name: yolo_detector
+msg: frame=27510, objects=0, fps=34.49
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089457
+  nanosec: 302980076
+level: 20
+name: yolo_detector
+msg: frame=27540, objects=0, fps=35.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089458
+  nanosec: 390144304
+level: 20
+name: yolo_detector
+msg: frame=27570, objects=0, fps=34.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089459
+  nanosec: 647132713
+level: 20
+name: yolo_detector
+msg: frame=27600, objects=0, fps=29.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089460
+  nanosec: 793527332
+level: 20
+name: yolo_detector
+msg: frame=27630, objects=0, fps=34.11
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089461
+  nanosec: 826166343
+level: 20
+name: yolo_detector
+msg: frame=27660, objects=0, fps=37.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089462
+  nanosec: 864195573
+level: 20
+name: yolo_detector
+msg: frame=27690, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089463
+  nanosec: 983198657
+level: 20
+name: yolo_detector
+msg: frame=27720, objects=0, fps=32.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089465
+  nanosec: 107791101
+level: 20
+name: yolo_detector
+msg: frame=27750, objects=0, fps=34.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089466
+  nanosec: 248461851
+level: 20
+name: yolo_detector
+msg: frame=27780, objects=1, fps=33.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089467
+  nanosec: 470348736
+level: 20
+name: yolo_detector
+msg: frame=27810, objects=1, fps=31.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089468
+  nanosec: 673179521
+level: 20
+name: yolo_detector
+msg: frame=27840, objects=0, fps=33.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089469
+  nanosec: 783316153
+level: 20
+name: yolo_detector
+msg: frame=27870, objects=1, fps=33.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089471
+  nanosec: 937060
+level: 20
+name: yolo_detector
+msg: frame=27900, objects=0, fps=34.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089472
+  nanosec: 330157663
+level: 20
+name: yolo_detector
+msg: frame=27930, objects=0, fps=31.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089473
+  nanosec: 477526517
+level: 20
+name: yolo_detector
+msg: frame=27960, objects=0, fps=33.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089474
+  nanosec: 577546702
+level: 20
+name: yolo_detector
+msg: frame=27990, objects=0, fps=34.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089475
+  nanosec: 775735380
+level: 20
+name: yolo_detector
+msg: frame=28020, objects=0, fps=33.99
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089476
+  nanosec: 873537419
+level: 20
+name: yolo_detector
+msg: frame=28050, objects=0, fps=34.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089478
+  nanosec: 63914104
+level: 20
+name: yolo_detector
+msg: frame=28080, objects=1, fps=31.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089479
+  nanosec: 192930574
+level: 20
+name: yolo_detector
+msg: frame=28110, objects=0, fps=33.87
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089480
+  nanosec: 258538658
+level: 20
+name: yolo_detector
+msg: frame=28140, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089481
+  nanosec: 335087860
+level: 20
+name: yolo_detector
+msg: frame=28170, objects=0, fps=34.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089482
+  nanosec: 461357839
+level: 20
+name: yolo_detector
+msg: frame=28200, objects=1, fps=32.16
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089483
+  nanosec: 622278515
+level: 20
+name: yolo_detector
+msg: frame=28230, objects=1, fps=32.09
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089484
+  nanosec: 761129636
+level: 20
+name: yolo_detector
+msg: frame=28260, objects=0, fps=32.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089485
+  nanosec: 927451499
+level: 20
+name: yolo_detector
+msg: frame=28290, objects=0, fps=34.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089487
+  nanosec: 72878378
+level: 20
+name: yolo_detector
+msg: frame=28320, objects=0, fps=32.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089488
+  nanosec: 223433416
+level: 20
+name: yolo_detector
+msg: frame=28350, objects=0, fps=34.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089489
+  nanosec: 334549050
+level: 20
+name: yolo_detector
+msg: frame=28380, objects=0, fps=32.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089490
+  nanosec: 620680237
+level: 20
+name: yolo_detector
+msg: frame=28410, objects=0, fps=29.73
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089491
+  nanosec: 688355445
+level: 20
+name: yolo_detector
+msg: frame=28440, objects=0, fps=34.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089492
+  nanosec: 865433616
+level: 20
+name: yolo_detector
+msg: frame=28470, objects=0, fps=34.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089493
+  nanosec: 909448100
+level: 20
+name: yolo_detector
+msg: frame=28500, objects=0, fps=36.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089494
+  nanosec: 980004297
+level: 20
+name: yolo_detector
+msg: frame=28530, objects=1, fps=35.33
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089496
+  nanosec: 120456441
+level: 20
+name: yolo_detector
+msg: frame=28560, objects=1, fps=35.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089497
+  nanosec: 303538208
+level: 20
+name: yolo_detector
+msg: frame=28590, objects=0, fps=37.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089498
+  nanosec: 348603782
+level: 20
+name: yolo_detector
+msg: frame=28620, objects=0, fps=35.18
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089499
+  nanosec: 409070483
+level: 20
+name: yolo_detector
+msg: frame=28650, objects=0, fps=35.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089500
+  nanosec: 588036683
+level: 20
+name: yolo_detector
+msg: frame=28680, objects=0, fps=32.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089501
+  nanosec: 826269236
+level: 20
+name: yolo_detector
+msg: frame=28710, objects=0, fps=30.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089503
+  nanosec: 186442375
+level: 20
+name: yolo_detector
+msg: frame=28740, objects=0, fps=30.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089504
+  nanosec: 412551538
+level: 20
+name: yolo_detector
+msg: frame=28770, objects=0, fps=31.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089505
+  nanosec: 555030749
+level: 20
+name: yolo_detector
+msg: frame=28800, objects=0, fps=33.96
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089506
+  nanosec: 627218054
+level: 20
+name: yolo_detector
+msg: frame=28830, objects=0, fps=34.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089507
+  nanosec: 710789340
+level: 20
+name: yolo_detector
+msg: frame=28860, objects=1, fps=34.38
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089508
+  nanosec: 861761210
+level: 20
+name: yolo_detector
+msg: frame=28890, objects=2, fps=32.97
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089510
+  nanosec: 44147232
+level: 20
+name: yolo_detector
+msg: frame=28920, objects=1, fps=31.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089511
+  nanosec: 198909761
+level: 20
+name: yolo_detector
+msg: frame=28950, objects=1, fps=32.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089512
+  nanosec: 273031672
+level: 20
+name: yolo_detector
+msg: frame=28980, objects=1, fps=37.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089513
+  nanosec: 275696804
+level: 20
+name: yolo_detector
+msg: frame=29010, objects=2, fps=37.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089514
+  nanosec: 301875403
+level: 20
+name: yolo_detector
+msg: frame=29040, objects=2, fps=37.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089515
+  nanosec: 478393012
+level: 20
+name: yolo_detector
+msg: frame=29070, objects=1, fps=32.67
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089516
+  nanosec: 644056633
+level: 20
+name: yolo_detector
+msg: frame=29100, objects=1, fps=33.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089517
+  nanosec: 881603916
+level: 20
+name: yolo_detector
+msg: frame=29130, objects=1, fps=33.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089519
+  nanosec: 6961731
+level: 20
+name: yolo_detector
+msg: frame=29160, objects=1, fps=33.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089520
+  nanosec: 174961646
+level: 20
+name: yolo_detector
+msg: frame=29190, objects=1, fps=33.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089521
+  nanosec: 230481908
+level: 20
+name: yolo_detector
+msg: frame=29220, objects=1, fps=35.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089522
+  nanosec: 281519562
+level: 20
+name: yolo_detector
+msg: frame=29250, objects=0, fps=35.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089523
+  nanosec: 356812087
+level: 20
+name: yolo_detector
+msg: frame=29280, objects=0, fps=34.71
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089524
+  nanosec: 456501377
+level: 20
+name: yolo_detector
+msg: frame=29310, objects=0, fps=34.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089525
+  nanosec: 594759746
+level: 20
+name: yolo_detector
+msg: frame=29340, objects=0, fps=34.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089526
+  nanosec: 780457132
+level: 20
+name: yolo_detector
+msg: frame=29370, objects=0, fps=32.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089527
+  nanosec: 937519246
+level: 20
+name: yolo_detector
+msg: frame=29400, objects=0, fps=34.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089529
+  nanosec: 66623137
+level: 20
+name: yolo_detector
+msg: frame=29430, objects=0, fps=34.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089530
+  nanosec: 187845538
+level: 20
+name: yolo_detector
+msg: frame=29460, objects=0, fps=33.07
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089531
+  nanosec: 435763541
+level: 20
+name: yolo_detector
+msg: frame=29490, objects=1, fps=31.03
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089532
+  nanosec: 573863245
+level: 20
+name: yolo_detector
+msg: frame=29520, objects=0, fps=33.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089533
+  nanosec: 683053843
+level: 20
+name: yolo_detector
+msg: frame=29550, objects=0, fps=34.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089534
+  nanosec: 814449728
+level: 20
+name: yolo_detector
+msg: frame=29580, objects=0, fps=33.34
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089536
+  nanosec: 38330471
+level: 20
+name: yolo_detector
+msg: frame=29610, objects=1, fps=32.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089537
+  nanosec: 216723525
+level: 20
+name: yolo_detector
+msg: frame=29640, objects=1, fps=32.39
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089538
+  nanosec: 382827113
+level: 20
+name: yolo_detector
+msg: frame=29670, objects=0, fps=32.61
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089539
+  nanosec: 558612087
+level: 20
+name: yolo_detector
+msg: frame=29700, objects=0, fps=33.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089540
+  nanosec: 721316846
+level: 20
+name: yolo_detector
+msg: frame=29730, objects=0, fps=34.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089541
+  nanosec: 899076956
+level: 20
+name: yolo_detector
+msg: frame=29760, objects=0, fps=33.51
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089543
+  nanosec: 95525994
+level: 20
+name: yolo_detector
+msg: frame=29790, objects=0, fps=32.06
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089544
+  nanosec: 248930221
+level: 20
+name: yolo_detector
+msg: frame=29820, objects=1, fps=32.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089545
+  nanosec: 455233510
+level: 20
+name: yolo_detector
+msg: frame=29850, objects=1, fps=31.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089546
+  nanosec: 570422033
+level: 20
+name: yolo_detector
+msg: frame=29880, objects=0, fps=34.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089547
+  nanosec: 716170721
+level: 20
+name: yolo_detector
+msg: frame=29910, objects=0, fps=34.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089548
+  nanosec: 897225384
+level: 20
+name: yolo_detector
+msg: frame=29940, objects=0, fps=32.61
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089550
+  nanosec: 181326676
+level: 20
+name: yolo_detector
+msg: frame=29970, objects=0, fps=30.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089551
+  nanosec: 405806048
+level: 20
+name: yolo_detector
+msg: frame=30000, objects=0, fps=32.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089552
+  nanosec: 600063561
+level: 20
+name: yolo_detector
+msg: frame=30030, objects=0, fps=32.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089553
+  nanosec: 761618356
+level: 20
+name: yolo_detector
+msg: frame=30060, objects=1, fps=31.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089554
+  nanosec: 894739105
+level: 20
+name: yolo_detector
+msg: frame=30090, objects=0, fps=31.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089555
+  nanosec: 997055479
+level: 20
+name: yolo_detector
+msg: frame=30120, objects=0, fps=34.33
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089557
+  nanosec: 151585670
+level: 20
+name: yolo_detector
+msg: frame=30150, objects=0, fps=34.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089558
+  nanosec: 259191003
+level: 20
+name: yolo_detector
+msg: frame=30180, objects=0, fps=34.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089559
+  nanosec: 510837571
+level: 20
+name: yolo_detector
+msg: frame=30210, objects=0, fps=33.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089560
+  nanosec: 744885770
+level: 20
+name: yolo_detector
+msg: frame=30240, objects=0, fps=32.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089561
+  nanosec: 797475847
+level: 20
+name: yolo_detector
+msg: frame=30270, objects=0, fps=39.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089562
+  nanosec: 806967261
+level: 20
+name: yolo_detector
+msg: frame=30300, objects=0, fps=37.15
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089563
+  nanosec: 850115530
+level: 20
+name: yolo_detector
+msg: frame=30330, objects=0, fps=35.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089564
+  nanosec: 901101725
+level: 20
+name: yolo_detector
+msg: frame=30360, objects=0, fps=35.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089565
+  nanosec: 956361933
+level: 20
+name: yolo_detector
+msg: frame=30390, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089567
+  nanosec: 12128011
+level: 20
+name: yolo_detector
+msg: frame=30420, objects=0, fps=36.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089568
+  nanosec: 141110205
+level: 20
+name: yolo_detector
+msg: frame=30450, objects=0, fps=33.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089569
+  nanosec: 125647462
+level: 20
+name: yolo_detector
+msg: frame=30480, objects=0, fps=39.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089570
+  nanosec: 192784709
+level: 20
+name: yolo_detector
+msg: frame=30510, objects=0, fps=35.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089571
+  nanosec: 308369228
+level: 20
+name: yolo_detector
+msg: frame=30540, objects=0, fps=34.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089572
+  nanosec: 342260151
+level: 20
+name: yolo_detector
+msg: frame=30570, objects=0, fps=36.19
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089573
+  nanosec: 411149322
+level: 20
+name: yolo_detector
+msg: frame=30600, objects=0, fps=35.16
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089574
+  nanosec: 511365693
+level: 20
+name: yolo_detector
+msg: frame=30630, objects=0, fps=35.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089575
+  nanosec: 588958257
+level: 20
+name: yolo_detector
+msg: frame=30660, objects=0, fps=35.04
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089576
+  nanosec: 646165500
+level: 20
+name: yolo_detector
+msg: frame=30690, objects=0, fps=34.80
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089577
+  nanosec: 730578314
+level: 20
+name: yolo_detector
+msg: frame=30720, objects=0, fps=35.06
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089578
+  nanosec: 761321346
+level: 20
+name: yolo_detector
+msg: frame=30750, objects=0, fps=35.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089579
+  nanosec: 814416260
+level: 20
+name: yolo_detector
+msg: frame=30780, objects=0, fps=36.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089580
+  nanosec: 925360752
+level: 20
+name: yolo_detector
+msg: frame=30810, objects=0, fps=35.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089582
+  nanosec: 38293218
+level: 20
+name: yolo_detector
+msg: frame=30840, objects=0, fps=34.80
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089583
+  nanosec: 183348303
+level: 20
+name: yolo_detector
+msg: frame=30870, objects=0, fps=35.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089584
+  nanosec: 239976100
+level: 20
+name: yolo_detector
+msg: frame=30900, objects=0, fps=36.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089585
+  nanosec: 289687695
+level: 20
+name: yolo_detector
+msg: frame=30930, objects=0, fps=35.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089586
+  nanosec: 384679335
+level: 20
+name: yolo_detector
+msg: frame=30960, objects=0, fps=34.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089587
+  nanosec: 502589533
+level: 20
+name: yolo_detector
+msg: frame=30990, objects=0, fps=34.68
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089588
+  nanosec: 566519316
+level: 20
+name: yolo_detector
+msg: frame=31020, objects=1, fps=35.04
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089589
+  nanosec: 734836115
+level: 20
+name: yolo_detector
+msg: frame=31050, objects=1, fps=32.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089590
+  nanosec: 914122988
+level: 20
+name: yolo_detector
+msg: frame=31080, objects=0, fps=33.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089592
+  nanosec: 4284661
+level: 20
+name: yolo_detector
+msg: frame=31110, objects=0, fps=33.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089593
+  nanosec: 166765799
+level: 20
+name: yolo_detector
+msg: frame=31140, objects=0, fps=34.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089594
+  nanosec: 477170636
+level: 20
+name: yolo_detector
+msg: frame=31170, objects=1, fps=32.54
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089595
+  nanosec: 651220776
+level: 20
+name: yolo_detector
+msg: frame=31200, objects=0, fps=32.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089596
+  nanosec: 847826676
+level: 20
+name: yolo_detector
+msg: frame=31230, objects=1, fps=31.06
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089598
+  nanosec: 145615146
+level: 20
+name: yolo_detector
+msg: frame=31260, objects=1, fps=29.53
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089599
+  nanosec: 317131414
+level: 20
+name: yolo_detector
+msg: frame=31290, objects=0, fps=32.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089600
+  nanosec: 425995709
+level: 20
+name: yolo_detector
+msg: frame=31320, objects=0, fps=33.95
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089601
+  nanosec: 571343714
+level: 20
+name: yolo_detector
+msg: frame=31350, objects=1, fps=32.14
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089602
+  nanosec: 749004647
+level: 20
+name: yolo_detector
+msg: frame=31380, objects=2, fps=32.55
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089604
+  nanosec: 10860306
+level: 20
+name: yolo_detector
+msg: frame=31410, objects=2, fps=31.85
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089605
+  nanosec: 146160652
+level: 20
+name: yolo_detector
+msg: frame=31440, objects=0, fps=33.67
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089606
+  nanosec: 332847093
+level: 20
+name: yolo_detector
+msg: frame=31470, objects=2, fps=32.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089607
+  nanosec: 517091325
+level: 20
+name: yolo_detector
+msg: frame=31500, objects=2, fps=32.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089608
+  nanosec: 821221869
+level: 20
+name: yolo_detector
+msg: frame=31530, objects=2, fps=30.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089610
+  nanosec: 235146694
+level: 20
+name: yolo_detector
+msg: frame=31560, objects=0, fps=26.54
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089611
+  nanosec: 504919768
+level: 20
+name: yolo_detector
+msg: frame=31590, objects=0, fps=31.64
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089612
+  nanosec: 570409735
+level: 20
+name: yolo_detector
+msg: frame=31620, objects=0, fps=37.09
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089613
+  nanosec: 616569113
+level: 20
+name: yolo_detector
+msg: frame=31650, objects=0, fps=35.62
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089614
+  nanosec: 655422162
+level: 20
+name: yolo_detector
+msg: frame=31680, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089615
+  nanosec: 751050278
+level: 20
+name: yolo_detector
+msg: frame=31710, objects=0, fps=34.28
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089616
+  nanosec: 823194207
+level: 20
+name: yolo_detector
+msg: frame=31740, objects=0, fps=34.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089617
+  nanosec: 886522312
+level: 20
+name: yolo_detector
+msg: frame=31770, objects=1, fps=33.94
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089619
+  nanosec: 128087501
+level: 20
+name: yolo_detector
+msg: frame=31800, objects=1, fps=29.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089620
+  nanosec: 475859729
+level: 20
+name: yolo_detector
+msg: frame=31830, objects=1, fps=29.97
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089621
+  nanosec: 629608988
+level: 20
+name: yolo_detector
+msg: frame=31860, objects=1, fps=32.21
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089622
+  nanosec: 705304068
+level: 20
+name: yolo_detector
+msg: frame=31890, objects=1, fps=37.74
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089623
+  nanosec: 791658777
+level: 20
+name: yolo_detector
+msg: frame=31920, objects=0, fps=38.38
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089624
+  nanosec: 996192688
+level: 20
+name: yolo_detector
+msg: frame=31950, objects=1, fps=34.96
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089626
+  nanosec: 199530228
+level: 20
+name: yolo_detector
+msg: frame=31980, objects=0, fps=35.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089627
+  nanosec: 261984407
+level: 20
+name: yolo_detector
+msg: frame=32010, objects=0, fps=37.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089628
+  nanosec: 406466216
+level: 20
+name: yolo_detector
+msg: frame=32040, objects=1, fps=36.33
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089629
+  nanosec: 468832894
+level: 20
+name: yolo_detector
+msg: frame=32070, objects=0, fps=37.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089630
+  nanosec: 571715271
+level: 20
+name: yolo_detector
+msg: frame=32100, objects=0, fps=37.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089631
+  nanosec: 808937263
+level: 20
+name: yolo_detector
+msg: frame=32130, objects=0, fps=33.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089632
+  nanosec: 847262575
+level: 20
+name: yolo_detector
+msg: frame=32160, objects=0, fps=36.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089634
+  nanosec: 120126763
+level: 20
+name: yolo_detector
+msg: frame=32190, objects=0, fps=33.22
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089635
+  nanosec: 308428593
+level: 20
+name: yolo_detector
+msg: frame=32220, objects=0, fps=33.84
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089636
+  nanosec: 402122024
+level: 20
+name: yolo_detector
+msg: frame=32250, objects=0, fps=37.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089637
+  nanosec: 401258100
+level: 20
+name: yolo_detector
+msg: frame=32280, objects=0, fps=37.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089638
+  nanosec: 500803007
+level: 20
+name: yolo_detector
+msg: frame=32310, objects=0, fps=39.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089639
+  nanosec: 694610082
+level: 20
+name: yolo_detector
+msg: frame=32340, objects=0, fps=32.88
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089640
+  nanosec: 812674141
+level: 20
+name: yolo_detector
+msg: frame=32370, objects=0, fps=37.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089641
+  nanosec: 866595239
+level: 20
+name: yolo_detector
+msg: frame=32400, objects=0, fps=37.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089642
+  nanosec: 979339121
+level: 20
+name: yolo_detector
+msg: frame=32430, objects=0, fps=36.63
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089643
+  nanosec: 967973019
+level: 20
+name: yolo_detector
+msg: frame=32460, objects=0, fps=38.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089644
+  nanosec: 976902620
+level: 20
+name: yolo_detector
+msg: frame=32490, objects=0, fps=37.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089645
+  nanosec: 988720230
+level: 20
+name: yolo_detector
+msg: frame=32520, objects=0, fps=37.18
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089647
+  nanosec: 26900236
+level: 20
+name: yolo_detector
+msg: frame=32550, objects=0, fps=38.39
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089648
+  nanosec: 41587162
+level: 20
+name: yolo_detector
+msg: frame=32580, objects=0, fps=37.04
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089649
+  nanosec: 44610735
+level: 20
+name: yolo_detector
+msg: frame=32610, objects=0, fps=37.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089650
+  nanosec: 62068927
+level: 20
+name: yolo_detector
+msg: frame=32640, objects=0, fps=38.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089651
+  nanosec: 113348418
+level: 20
+name: yolo_detector
+msg: frame=32670, objects=0, fps=36.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089652
+  nanosec: 107252341
+level: 20
+name: yolo_detector
+msg: frame=32700, objects=0, fps=39.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089653
+  nanosec: 172022604
+level: 20
+name: yolo_detector
+msg: frame=32730, objects=0, fps=36.33
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089654
+  nanosec: 220205552
+level: 20
+name: yolo_detector
+msg: frame=32760, objects=0, fps=35.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089655
+  nanosec: 274503189
+level: 20
+name: yolo_detector
+msg: frame=32790, objects=0, fps=36.90
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089656
+  nanosec: 303233270
+level: 20
+name: yolo_detector
+msg: frame=32820, objects=0, fps=35.26
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089657
+  nanosec: 347798663
+level: 20
+name: yolo_detector
+msg: frame=32850, objects=0, fps=35.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089658
+  nanosec: 387616353
+level: 20
+name: yolo_detector
+msg: frame=32880, objects=0, fps=35.78
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089659
+  nanosec: 420954628
+level: 20
+name: yolo_detector
+msg: frame=32910, objects=0, fps=35.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089660
+  nanosec: 492246197
+level: 20
+name: yolo_detector
+msg: frame=32940, objects=0, fps=35.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089661
+  nanosec: 530301794
+level: 20
+name: yolo_detector
+msg: frame=32970, objects=0, fps=35.02
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089662
+  nanosec: 542920528
+level: 20
+name: yolo_detector
+msg: frame=33000, objects=0, fps=36.27
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089663
+  nanosec: 561681057
+level: 20
+name: yolo_detector
+msg: frame=33030, objects=0, fps=36.09
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089664
+  nanosec: 658811885
+level: 20
+name: yolo_detector
+msg: frame=33060, objects=0, fps=35.66
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089665
+  nanosec: 691231320
+level: 20
+name: yolo_detector
+msg: frame=33090, objects=0, fps=35.73
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089666
+  nanosec: 745408591
+level: 20
+name: yolo_detector
+msg: frame=33120, objects=0, fps=35.60
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089667
+  nanosec: 857838574
+level: 20
+name: yolo_detector
+msg: frame=33150, objects=0, fps=35.58
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089668
+  nanosec: 896255054
+level: 20
+name: yolo_detector
+msg: frame=33180, objects=0, fps=35.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089669
+  nanosec: 994135074
+level: 20
+name: yolo_detector
+msg: frame=33210, objects=0, fps=35.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089671
+  nanosec: 87005879
+level: 20
+name: yolo_detector
+msg: frame=33240, objects=0, fps=35.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089672
+  nanosec: 118508200
+level: 20
+name: yolo_detector
+msg: frame=33270, objects=0, fps=36.00
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089673
+  nanosec: 154162322
+level: 20
+name: yolo_detector
+msg: frame=33300, objects=0, fps=35.91
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089674
+  nanosec: 183434313
+level: 20
+name: yolo_detector
+msg: frame=33330, objects=0, fps=36.09
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089675
+  nanosec: 230371954
+level: 20
+name: yolo_detector
+msg: frame=33360, objects=0, fps=35.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089676
+  nanosec: 258231533
+level: 20
+name: yolo_detector
+msg: frame=33390, objects=0, fps=35.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089677
+  nanosec: 381478365
+level: 20
+name: yolo_detector
+msg: frame=33420, objects=0, fps=35.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089678
+  nanosec: 407185952
+level: 20
+name: yolo_detector
+msg: frame=33450, objects=0, fps=35.99
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089679
+  nanosec: 445039687
+level: 20
+name: yolo_detector
+msg: frame=33480, objects=0, fps=35.55
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089680
+  nanosec: 473017911
+level: 20
+name: yolo_detector
+msg: frame=33510, objects=0, fps=35.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089681
+  nanosec: 540487405
+level: 20
+name: yolo_detector
+msg: frame=33540, objects=0, fps=35.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089682
+  nanosec: 549199492
+level: 20
+name: yolo_detector
+msg: frame=33570, objects=0, fps=36.11
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089683
+  nanosec: 614596773
+level: 20
+name: yolo_detector
+msg: frame=33600, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089684
+  nanosec: 705371481
+level: 20
+name: yolo_detector
+msg: frame=33630, objects=0, fps=35.56
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089685
+  nanosec: 836526483
+level: 20
+name: yolo_detector
+msg: frame=33660, objects=0, fps=35.36
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089686
+  nanosec: 875442088
+level: 20
+name: yolo_detector
+msg: frame=33690, objects=0, fps=35.63
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089687
+  nanosec: 918710749
+level: 20
+name: yolo_detector
+msg: frame=33720, objects=0, fps=35.33
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089689
+  nanosec: 21931508
+level: 20
+name: yolo_detector
+msg: frame=33750, objects=0, fps=37.52
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089690
+  nanosec: 134436611
+level: 20
+name: yolo_detector
+msg: frame=33780, objects=0, fps=38.43
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089691
+  nanosec: 168611383
+level: 20
+name: yolo_detector
+msg: frame=33810, objects=0, fps=36.97
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089692
+  nanosec: 257311587
+level: 20
+name: yolo_detector
+msg: frame=33840, objects=0, fps=36.29
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089693
+  nanosec: 253396926
+level: 20
+name: yolo_detector
+msg: frame=33870, objects=0, fps=40.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089694
+  nanosec: 258501800
+level: 20
+name: yolo_detector
+msg: frame=33900, objects=0, fps=39.45
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089695
+  nanosec: 446011581
+level: 20
+name: yolo_detector
+msg: frame=33930, objects=0, fps=35.25
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089696
+  nanosec: 559988236
+level: 20
+name: yolo_detector
+msg: frame=33960, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089697
+  nanosec: 631228663
+level: 20
+name: yolo_detector
+msg: frame=33990, objects=0, fps=34.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089698
+  nanosec: 680096569
+level: 20
+name: yolo_detector
+msg: frame=34020, objects=0, fps=35.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089699
+  nanosec: 763955573
+level: 20
+name: yolo_detector
+msg: frame=34050, objects=1, fps=33.69
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089700
+  nanosec: 851973257
+level: 20
+name: yolo_detector
+msg: frame=34080, objects=1, fps=33.47
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089701
+  nanosec: 991313498
+level: 20
+name: yolo_detector
+msg: frame=34110, objects=0, fps=34.03
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089703
+  nanosec: 55464233
+level: 20
+name: yolo_detector
+msg: frame=34140, objects=0, fps=34.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089704
+  nanosec: 189377319
+level: 20
+name: yolo_detector
+msg: frame=34170, objects=0, fps=34.80
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089705
+  nanosec: 274491423
+level: 20
+name: yolo_detector
+msg: frame=34200, objects=0, fps=34.86
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089706
+  nanosec: 334134203
+level: 20
+name: yolo_detector
+msg: frame=34230, objects=0, fps=35.41
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089707
+  nanosec: 351113207
+level: 20
+name: yolo_detector
+msg: frame=34260, objects=0, fps=37.79
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089708
+  nanosec: 467988776
+level: 20
+name: yolo_detector
+msg: frame=34290, objects=0, fps=34.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089709
+  nanosec: 601507364
+level: 20
+name: yolo_detector
+msg: frame=34320, objects=0, fps=32.78
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089710
+  nanosec: 779626336
+level: 20
+name: yolo_detector
+msg: frame=34350, objects=1, fps=32.76
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089711
+  nanosec: 967708108
+level: 20
+name: yolo_detector
+msg: frame=34380, objects=0, fps=31.82
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089713
+  nanosec: 171626276
+level: 20
+name: yolo_detector
+msg: frame=34410, objects=0, fps=32.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089714
+  nanosec: 438514889
+level: 20
+name: yolo_detector
+msg: frame=34440, objects=0, fps=33.72
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089715
+  nanosec: 653276365
+level: 20
+name: yolo_detector
+msg: frame=34470, objects=1, fps=32.54
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089716
+  nanosec: 806822781
+level: 20
+name: yolo_detector
+msg: frame=34500, objects=0, fps=33.40
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089717
+  nanosec: 939886442
+level: 20
+name: yolo_detector
+msg: frame=34530, objects=0, fps=33.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089719
+  nanosec: 138609770
+level: 20
+name: yolo_detector
+msg: frame=34560, objects=0, fps=31.48
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089720
+  nanosec: 329048079
+level: 20
+name: yolo_detector
+msg: frame=34590, objects=1, fps=32.10
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089721
+  nanosec: 502569720
+level: 20
+name: yolo_detector
+msg: frame=34620, objects=1, fps=33.08
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089722
+  nanosec: 776087349
+level: 20
+name: yolo_detector
+msg: frame=34650, objects=1, fps=30.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089723
+  nanosec: 970084402
+level: 20
+name: yolo_detector
+msg: frame=34680, objects=0, fps=33.31
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089725
+  nanosec: 120038942
+level: 20
+name: yolo_detector
+msg: frame=34710, objects=0, fps=34.37
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089726
+  nanosec: 465220993
+level: 20
+name: yolo_detector
+msg: frame=34740, objects=0, fps=27.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089727
+  nanosec: 596136253
+level: 20
+name: yolo_detector
+msg: frame=34770, objects=0, fps=34.20
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089728
+  nanosec: 635530588
+level: 20
+name: yolo_detector
+msg: frame=34800, objects=0, fps=35.42
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089729
+  nanosec: 691800429
+level: 20
+name: yolo_detector
+msg: frame=34830, objects=1, fps=34.50
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089730
+  nanosec: 766285284
+level: 20
+name: yolo_detector
+msg: frame=34860, objects=0, fps=35.30
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089731
+  nanosec: 871400590
+level: 20
+name: yolo_detector
+msg: frame=34890, objects=0, fps=35.70
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089732
+  nanosec: 939616019
+level: 20
+name: yolo_detector
+msg: frame=34920, objects=0, fps=35.93
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089733
+  nanosec: 994049651
+level: 20
+name: yolo_detector
+msg: frame=34950, objects=0, fps=35.09
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089735
+  nanosec: 51911055
+level: 20
+name: yolo_detector
+msg: frame=34980, objects=1, fps=34.92
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089736
+  nanosec: 99802739
+level: 20
+name: yolo_detector
+msg: frame=35010, objects=0, fps=36.17
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089737
+  nanosec: 199177014
+level: 20
+name: yolo_detector
+msg: frame=35040, objects=0, fps=35.81
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089738
+  nanosec: 260893303
+level: 20
+name: yolo_detector
+msg: frame=35070, objects=0, fps=35.13
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089739
+  nanosec: 283399903
+level: 20
+name: yolo_detector
+msg: frame=35100, objects=0, fps=35.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089740
+  nanosec: 344796078
+level: 20
+name: yolo_detector
+msg: frame=35130, objects=0, fps=35.23
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089741
+  nanosec: 385784353
+level: 20
+name: yolo_detector
+msg: frame=35160, objects=0, fps=35.29
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089742
+  nanosec: 441687037
+level: 20
+name: yolo_detector
+msg: frame=35190, objects=0, fps=34.77
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089743
+  nanosec: 475324343
+level: 20
+name: yolo_detector
+msg: frame=35220, objects=0, fps=35.59
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089744
+  nanosec: 639769724
+level: 20
+name: yolo_detector
+msg: frame=35250, objects=0, fps=35.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089745
+  nanosec: 671050872
+level: 20
+name: yolo_detector
+msg: frame=35280, objects=0, fps=35.69
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089746
+  nanosec: 702554201
+level: 20
+name: yolo_detector
+msg: frame=35310, objects=0, fps=35.89
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089747
+  nanosec: 733890128
+level: 20
+name: yolo_detector
+msg: frame=35340, objects=0, fps=35.65
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089748
+  nanosec: 817262841
+level: 20
+name: yolo_detector
+msg: frame=35370, objects=0, fps=35.73
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089749
+  nanosec: 866036980
+level: 20
+name: yolo_detector
+msg: frame=35400, objects=0, fps=35.24
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089750
+  nanosec: 904658194
+level: 20
+name: yolo_detector
+msg: frame=35430, objects=0, fps=36.32
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
+stamp:
+  sec: 1788089751
+  nanosec: 949171592
+level: 20
+name: yolo_detector
+msg: frame=35460, objects=0, fps=35.35
+file: /home/adam/robot_ws/build/robot_vision/robot_vision/yolo_detector.py
+function: image_callback
+line: 163
+---
