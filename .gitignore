@@ -79,3 +79,5 @@ __pycache__/
 # Ultralytics temporary files
 weights/
 *.cache
+
+/datasets/laptop_mouse_yolov8/
