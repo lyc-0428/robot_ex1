@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-09-02T10:06:22.865667+00:00",
+  "pretrained_model": "models/pretrained/yolo26s.pt",
+  "pretrained_sha256": "646f8bc3fe0a656803d95c294f7852321748cb29d13466a1af8862e2db384a1b",
+  "finetuned_model": "models/finetuned/yolo26s_laptop_mouse_best.pt",
+  "finetuned_sha256": "396e391eed2d8635ff6cb27f7576f96b8c81be0a7bbd7a108b7f485e6d93731c",
+  "training_config": "configs/yolo26s_openimages_mini1k_session_mixed_3way.yaml",
+  "dataset_yaml": "datasets/openimages_mini1k_session_mixed_3way/data.yaml",
+  "classes": [
+    "laptop",
+    "mouse"
+  ],
+  "torch": "2.7.1+cu126",
+  "torch_cuda": "12.6",
+  "ultralytics": "8.4.131",
+  "run_directory": "runs/yolo26s/openimages_mini1k_session_mixed_3way_20260902"
+}
