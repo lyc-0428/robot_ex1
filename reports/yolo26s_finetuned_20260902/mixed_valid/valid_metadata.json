@@ -1,0 +1,43 @@
+{
+  "model": "/home/ubuntu/robot/robot_ex1/models/finetuned/yolo26s_laptop_mouse_best.pt",
+  "model_sha256": "396e391eed2d8635ff6cb27f7576f96b8c81be0a7bbd7a108b7f485e6d93731c",
+  "dataset": "/home/ubuntu/robot/robot_ex1/datasets/openimages_mini1k_session_mixed_3way",
+  "split": "valid",
+  "matching_iou": 0.5,
+  "imgsz": 512,
+  "batch": 16,
+  "device": "0",
+  "model_to_dataset_class_mapping": {
+    "0": 0,
+    "1": 1
+  },
+  "torch": "2.7.1+cu126",
+  "torch_cuda": "12.6",
+  "ultralytics": "8.4.131",
+  "best_by_f1": {
+    "confidence": 0.18,
+    "tp": 160,
+    "fp": 34,
+    "fn": 131,
+    "precision": 0.8247422680412371,
+    "recall": 0.5498281786941581,
+    "f1": 0.6597938144329897,
+    "detection_accuracy": 0.49230769230769234,
+    "map50": 0.528415713694902,
+    "map50_95": 0.4522405811131657,
+    "laptop_tp": 91,
+    "laptop_fp": 8,
+    "laptop_fn": 58,
+    "laptop_precision": 0.9191919191919192,
+    "laptop_recall": 0.610738255033557,
+    "laptop_f1": 0.7338709677419355,
+    "laptop_detection_accuracy": 0.5796178343949044,
+    "mouse_tp": 69,
+    "mouse_fp": 26,
+    "mouse_fn": 73,
+    "mouse_precision": 0.7263157894736842,
+    "mouse_recall": 0.4859154929577465,
+    "mouse_f1": 0.5822784810126583,
+    "mouse_detection_accuracy": 0.4107142857142857
+  }
+}

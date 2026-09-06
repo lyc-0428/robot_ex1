@@ -81,3 +81,9 @@ weights/
 *.cache
 
 /datasets/laptop_mouse_yolov8/
+
+# Local datasets
+/datasets/
+*.tar.zst
+/tatus -- short
+*.broken

@@ -1,0 +1,29 @@
+model: models/pretrained/yolo26s.pt
+data: datasets/openimages_mini1k_session_mixed_3way/data.yaml
+project: .cache/yolo26s_smoke
+name: smoke_20260902
+
+epochs: 1
+patience: 1
+imgsz: 512
+batch: 16
+device: 0
+workers: 8
+
+optimizer: AdamW
+lr0: 0.001
+lrf: 0.01
+weight_decay: 0.0005
+warmup_epochs: 0.0
+cos_lr: true
+close_mosaic: 10
+
+amp: true
+cache: false
+seed: 42
+deterministic: true
+
+save: true
+save_period: 10
+plots: true
+exist_ok: false
